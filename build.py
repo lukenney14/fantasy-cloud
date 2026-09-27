@@ -65,6 +65,16 @@ ESPN_SLOT = {
 }
 ESPN_POS = {1: "QB", 2: "RB", 3: "WR", 4: "TE", 5: "K", 16: "D/ST"}
 
+# ESPN proTeamId -> abbreviation. Used so the bench table can show a team the
+# same way the Sleeper leagues do.
+ESPN_TEAM = {
+    0: "FA", 1: "ATL", 2: "BUF", 3: "CHI", 4: "CIN", 5: "CLE", 6: "DAL",
+    7: "DEN", 8: "DET", 9: "GB", 10: "TEN", 11: "IND", 12: "KC", 13: "LV",
+    14: "LAR", 15: "MIA", 16: "MIN", 17: "NE", 18: "NO", 19: "NYG", 20: "NYJ",
+    21: "PHI", 22: "ARI", 23: "PIT", 24: "LAC", 25: "SF", 26: "SEA", 27: "TB",
+    28: "WSH", 29: "CAR", 30: "JAX", 33: "BAL", 34: "HOU",
+}
+
 LOG = []
 
 
@@ -332,6 +342,7 @@ def build_espn(cfg, week):
                 row = {
                     "n": pool.get("fullName") or "—",
                     "p": ESPN_POS.get(pool.get("defaultPositionId"), "?"),
+                    "t": ESPN_TEAM.get(pool.get("proTeamId"), ""),
                     "slot": slot,
                     "pr": weekly(e),
                     "i": (pool.get("injuryStatus") or "").title().replace("_", " "),
@@ -558,8 +569,11 @@ def league_pane(lg):
         parts.append("<h3>Bench, by projection</h3><table>"
                      "<tr><th>Player</th><th>Pos</th><th>Team</th><th>Status</th><th class=\"n\">Proj</th></tr>")
         for b in lg["bench"]:
+            # .get() throughout: ESPN and Sleeper rows carry slightly different
+            # keys, and a missing one must not take down the whole page.
             parts.append('<tr><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td class="n">%.2f</td></tr>'
-                         % (esc(b["n"]), esc(b["p"]), esc(b["t"]), esc(b["i"]), b["pr"]))
+                         % (esc(b.get("n")), esc(b.get("p")), esc(b.get("t")),
+                            esc(b.get("i")), b.get("pr", 0.0)))
         parts.append("</table>")
 
     if lg["dynasty"]:
