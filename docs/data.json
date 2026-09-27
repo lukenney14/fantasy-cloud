@@ -1,5 +1,5 @@
 {
- "built": "2026-09-27T13:13:19.245288+00:00",
+ "built": "2026-09-27T15:16:32.174460+00:00",
  "week": 3,
  "leagues": [
   {
@@ -510,13 +510,13 @@
    "week": 3,
    "me": "lukekenney",
    "opp": "Barkley\u2019s Reedemption",
-   "my_total": 133.16,
-   "opp_total": 114.84,
+   "my_total": 133.2,
+   "opp_total": 114.24,
    "h2h": [
     {
      "slot": "QB",
      "me": "Dak Prescott DAL",
-     "mp": 19.93,
+     "mp": 20.04,
      "mi": "",
      "opp": "Justin Herbert LAC",
      "op": 17.28,
@@ -546,16 +546,16 @@
      "mp": 16.65,
      "mi": "",
      "opp": "Tee Higgins CIN",
-     "op": 13.78,
+     "op": 13.51,
      "oi": ""
     },
     {
      "slot": "WR",
      "me": "Davante Adams LAR",
-     "mp": 14.27,
+     "mp": 14.2,
      "mi": "",
      "opp": "Terry McLaurin WAS",
-     "op": 10.09,
+     "op": 10.15,
      "oi": ""
     },
     {
@@ -572,8 +572,8 @@
      "me": "Rhamondre Stevenson NE",
      "mp": 10.61,
      "mi": "",
-     "opp": "Jake Ferguson DAL",
-     "op": 9.22,
+     "opp": "Kayshon Boutte HOU",
+     "op": 8.83,
      "oi": ""
     },
     {
@@ -610,7 +610,7 @@
      "p": "QB",
      "t": "TB",
      "i": "",
-     "pr": 16.57
+     "pr": 16.52
     },
     {
      "n": "Matthew Golden",
@@ -624,7 +624,7 @@
      "p": "WR",
      "t": "PIT",
      "i": "Questionable",
-     "pr": 9.56
+     "pr": 9.38
     },
     {
      "n": "Tyjae Spears",
@@ -642,7 +642,7 @@
     }
    ],
    "free": [
-    "Baker Mayfield (16.6) over Rhamondre Stevenson NE (10.6) at FLEX"
+    "Baker Mayfield (16.5) over Rhamondre Stevenson NE (10.6) at FLEX"
    ],
    "standings": [
     {
@@ -740,8 +740,8 @@
    "week": 3,
    "me": "lukekenney",
    "opp": "Cesar\u2019s Conquest",
-   "my_total": 136.19,
-   "opp_total": 146.82,
+   "my_total": 136.37,
+   "opp_total": 146.33,
    "h2h": [
     {
      "slot": "QB",
@@ -755,7 +755,7 @@
     {
      "slot": "RB",
      "me": "Chase Brown CIN",
-     "mp": 15.92,
+     "mp": 16.1,
      "mi": "",
      "opp": "Jahmyr Gibbs DET",
      "op": 23.25,
@@ -767,7 +767,7 @@
      "mp": 20.2,
      "mi": "",
      "opp": "Kyren Williams LAR",
-     "op": 13.53,
+     "op": 13.59,
      "oi": ""
     },
     {
@@ -776,7 +776,7 @@
      "mp": 15.61,
      "mi": "",
      "opp": "Jaxon Smith-Njigba SEA",
-     "op": 21.89,
+     "op": 22.0,
      "oi": ""
     },
     {
@@ -803,7 +803,7 @@
      "mp": 14.02,
      "mi": "",
      "opp": "Tee Higgins CIN",
-     "op": 13.8,
+     "op": 13.53,
      "oi": ""
     },
     {
@@ -812,7 +812,7 @@
      "mp": 13.65,
      "mi": "",
      "opp": "Tetairoa McMillan CAR",
-     "op": 14.28,
+     "op": 13.89,
      "oi": ""
     },
     {
@@ -852,7 +852,7 @@
      "p": "WR",
      "t": "BAL",
      "i": "",
-     "pr": 10.77
+     "pr": 10.78
     },
     {
      "n": "Devaughn Vele",
@@ -866,7 +866,7 @@
      "p": "TE",
      "t": "CLE",
      "i": "",
-     "pr": 9.56
+     "pr": 9.21
     },
     {
      "n": "Rome Odunze",
@@ -887,7 +887,7 @@
      "p": "WR",
      "t": "PIT",
      "i": "",
-     "pr": 5.78
+     "pr": 5.6
     },
     {
      "n": "Jaylin Lane",
