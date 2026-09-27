@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Fantasy dashboard icon">
+  <rect width="512" height="512" rx="96" fill="#16202e"/>
+  <g fill="none" stroke="#5ad07f" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M96 336 L192 240 L272 296 L416 160"/>
+    <path d="M352 160 L416 160 L416 224"/>
+  </g>
+  <g fill="#ffffff">
+    <rect x="96" y="384" width="56" height="40" rx="8"/>
+    <rect x="176" y="384" width="56" height="40" rx="8" opacity=".7"/>
+    <rect x="256" y="384" width="56" height="40" rx="8" opacity=".45"/>
+    <rect x="336" y="384" width="80" height="40" rx="8" opacity=".25"/>
+  </g>
+</svg>
