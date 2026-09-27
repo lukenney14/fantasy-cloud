@@ -1,5 +1,5 @@
 {
- "built": "2026-09-27T15:16:32.174460+00:00",
+ "built": "2026-09-27T16:18:36.915530+00:00",
  "week": 3,
  "leagues": [
   {
@@ -289,7 +289,7 @@
      "slot": "WR",
      "me": "Michael Pittman Jr.",
      "mp": 11.36,
-     "mi": "Questionable",
+     "mi": "Active",
      "opp": "Khalil Shakir",
      "op": 10.34,
      "oi": "Active"
@@ -370,7 +370,7 @@
      "t": "PIT",
      "slot": "BN",
      "pr": 8.64,
-     "i": "Active"
+     "i": "Out"
     },
     {
      "n": "Germie Bernard",
@@ -510,8 +510,8 @@
    "week": 3,
    "me": "lukekenney",
    "opp": "Barkley\u2019s Reedemption",
-   "my_total": 133.2,
-   "opp_total": 114.24,
+   "my_total": 134.48,
+   "opp_total": 113.85,
    "h2h": [
     {
      "slot": "QB",
@@ -534,16 +534,16 @@
     {
      "slot": "RB",
      "me": "Cam Skattebo NYG",
-     "mp": 13.94,
+     "mp": 15.04,
      "mi": "",
      "opp": "Omarion Hampton LAC",
-     "op": 14.06,
+     "op": 14.05,
      "oi": ""
     },
     {
      "slot": "WR",
      "me": "Justin Jefferson MIN",
-     "mp": 16.65,
+     "mp": 16.71,
      "mi": "",
      "opp": "Tee Higgins CIN",
      "op": 13.51,
@@ -555,7 +555,7 @@
      "mp": 14.2,
      "mi": "",
      "opp": "Terry McLaurin WAS",
-     "op": 10.15,
+     "op": 9.84,
      "oi": ""
     },
     {
@@ -579,16 +579,16 @@
     {
      "slot": "FLEX",
      "me": "Aaron Jones MIN",
-     "mp": 12.79,
+     "mp": 12.86,
      "mi": "",
      "opp": "Emeka Egbuka TB",
-     "op": 9.74,
+     "op": 9.67,
      "oi": ""
     },
     {
      "slot": "K",
      "me": "Eddy Pineiro SF",
-     "mp": 9.22,
+     "mp": 9.27,
      "mi": "",
      "opp": "Harrison Mevis LAR",
      "op": 8.68,
@@ -610,7 +610,7 @@
      "p": "QB",
      "t": "TB",
      "i": "",
-     "pr": 16.52
+     "pr": 16.41
     },
     {
      "n": "Matthew Golden",
@@ -623,15 +623,15 @@
      "n": "Michael Pittman",
      "p": "WR",
      "t": "PIT",
-     "i": "Questionable",
+     "i": "",
      "pr": 9.38
     },
     {
      "n": "Tyjae Spears",
      "p": "RB",
      "t": "TEN",
-     "i": "Questionable",
-     "pr": 6.54
+     "i": "",
+     "pr": 7.48
     },
     {
      "n": "Dallas Goedert",
@@ -642,7 +642,7 @@
     }
    ],
    "free": [
-    "Baker Mayfield (16.5) over Rhamondre Stevenson NE (10.6) at FLEX"
+    "Baker Mayfield (16.4) over Rhamondre Stevenson NE (10.6) at FLEX"
    ],
    "standings": [
     {
@@ -740,8 +740,8 @@
    "week": 3,
    "me": "lukekenney",
    "opp": "Cesar\u2019s Conquest",
-   "my_total": 136.37,
-   "opp_total": 146.33,
+   "my_total": 137.61,
+   "opp_total": 146.93,
    "h2h": [
     {
      "slot": "QB",
@@ -776,7 +776,7 @@
      "mp": 15.61,
      "mi": "",
      "opp": "Jaxon Smith-Njigba SEA",
-     "op": 22.0,
+     "op": 22.02,
      "oi": ""
     },
     {
@@ -791,16 +791,16 @@
     {
      "slot": "TE",
      "me": "George Kittle SF",
-     "mp": 12.19,
+     "mp": 12.21,
      "mi": "",
      "opp": "Sam LaPorta DET",
-     "op": 11.9,
+     "op": 12.17,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Cam Skattebo NYG",
-     "mp": 14.02,
+     "mp": 15.13,
      "mi": "",
      "opp": "Tee Higgins CIN",
      "op": 13.53,
@@ -809,16 +809,16 @@
     {
      "slot": "FLEX",
      "me": "Malik Nabers NYG",
-     "mp": 13.65,
+     "mp": 13.77,
      "mi": "",
      "opp": "Tetairoa McMillan CAR",
-     "op": 13.89,
+     "op": 14.2,
      "oi": ""
     },
     {
      "slot": "K",
      "me": "Chase McLaughlin TB",
-     "mp": 7.74,
+     "mp": 7.73,
      "mi": "",
      "opp": "Jake Bates DET",
      "op": 8.73,
@@ -852,7 +852,7 @@
      "p": "WR",
      "t": "BAL",
      "i": "",
-     "pr": 10.78
+     "pr": 10.9
     },
     {
      "n": "Devaughn Vele",
@@ -866,7 +866,7 @@
      "p": "TE",
      "t": "CLE",
      "i": "",
-     "pr": 9.21
+     "pr": 9.46
     },
     {
      "n": "Rome Odunze",
@@ -887,14 +887,14 @@
      "p": "WR",
      "t": "PIT",
      "i": "",
-     "pr": 5.6
+     "pr": 5.66
     },
     {
      "n": "Jaylin Lane",
      "p": "WR",
      "t": "WAS",
      "i": "",
-     "pr": 0.53
+     "pr": 0.51
     },
     {
      "n": "Roschon Johnson",
@@ -926,7 +926,7 @@
     }
    ],
    "free": [
-    "Malik Willis (16.0) over Cam Skattebo NYG (14.0) at FLEX"
+    "Malik Willis (16.0) over Malik Nabers NYG (13.8) at FLEX"
    ],
    "standings": [
     {
