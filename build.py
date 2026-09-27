@@ -665,11 +665,11 @@ A GitHub Actions cron job runs <code>build.py</code> on GitHub's servers, pulls 
 and commits the rendered page back to the repo. GitHub Pages serves it. Your phone just
 loads a static file.</div>
 <h3>Refresh schedule</h3>
-<table><tr><th>When (ET)</th><th>What runs</th></tr>
+<table><tr><th>When (Pacific)</th><th>What runs</th></tr>
 <tr><td>Tue 6:07 AM</td><td>Full rebuild &mdash; the deep weekly report</td></tr>
 <tr><td>Thu 6:07 AM</td><td>Short rebuild &mdash; midweek status</td></tr>
 <tr><td>Sun 6:07 AM</td><td>Short rebuild &mdash; pre-gameday</td></tr>
-<tr><td>Sun 11:07 AM</td><td>Inactives and survivor lock check</td></tr>
+<tr><td>Sun 8:07 AM</td><td>Inactives and survivor lock, before the 10am PT kickoffs</td></tr>
 </table>
 <h3>Zero JavaScript, on purpose</h3>
 <p class="small">The tabs are CSS-only radio buttons. Gmail mobile strips <code>&lt;script&gt;</code>,
