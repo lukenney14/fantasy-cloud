@@ -1,5 +1,5 @@
 {
- "built": "2026-09-27T12:58:49.320797+00:00",
+ "built": "2026-09-27T13:13:19.245288+00:00",
  "week": 3,
  "leagues": [
   {
@@ -510,8 +510,8 @@
    "week": 3,
    "me": "lukekenney",
    "opp": "Barkley\u2019s Reedemption",
-   "my_total": 133.01,
-   "opp_total": 115.0,
+   "my_total": 133.16,
+   "opp_total": 114.84,
    "h2h": [
     {
      "slot": "QB",
@@ -525,10 +525,10 @@
     {
      "slot": "RB",
      "me": "De'Von Achane MIA",
-     "mp": 16.09,
+     "mp": 16.29,
      "mi": "",
      "opp": "Saquon Barkley PHI",
-     "op": 15.94,
+     "op": 15.88,
      "oi": ""
     },
     {
@@ -546,13 +546,13 @@
      "mp": 16.65,
      "mi": "",
      "opp": "Tee Higgins CIN",
-     "op": 13.84,
+     "op": 13.78,
      "oi": ""
     },
     {
      "slot": "WR",
      "me": "Davante Adams LAR",
-     "mp": 14.32,
+     "mp": 14.27,
      "mi": "",
      "opp": "Terry McLaurin WAS",
      "op": 10.09,
@@ -591,7 +591,7 @@
      "mp": 9.22,
      "mi": "",
      "opp": "Harrison Mevis LAR",
-     "op": 8.72,
+     "op": 8.68,
      "oi": ""
     },
     {
@@ -740,13 +740,13 @@
    "week": 3,
    "me": "lukekenney",
    "opp": "Cesar\u2019s Conquest",
-   "my_total": 136.18,
-   "opp_total": 146.95,
+   "my_total": 136.19,
+   "opp_total": 146.82,
    "h2h": [
     {
      "slot": "QB",
      "me": "Jalen Hurts PHI",
-     "mp": 18.87,
+     "mp": 19.0,
      "mi": "",
      "opp": "Josh Allen BUF",
      "op": 23.73,
@@ -764,10 +764,10 @@
     {
      "slot": "RB",
      "me": "Kenneth Walker KC",
-     "mp": 20.32,
+     "mp": 20.2,
      "mi": "",
      "opp": "Kyren Williams LAR",
-     "op": 13.57,
+     "op": 13.53,
      "oi": ""
     },
     {
@@ -803,7 +803,7 @@
      "mp": 14.02,
      "mi": "",
      "opp": "Tee Higgins CIN",
-     "op": 13.86,
+     "op": 13.8,
      "oi": ""
     },
     {
@@ -812,7 +812,7 @@
      "mp": 13.65,
      "mi": "",
      "opp": "Tetairoa McMillan CAR",
-     "op": 14.31,
+     "op": 14.28,
      "oi": ""
     },
     {
@@ -831,7 +831,7 @@
      "p": "QB",
      "t": "MIA",
      "i": "",
-     "pr": 15.83
+     "pr": 16.04
     },
     {
      "n": "Jameson Williams",
@@ -852,7 +852,7 @@
      "p": "WR",
      "t": "BAL",
      "i": "",
-     "pr": 10.46
+     "pr": 10.77
     },
     {
      "n": "Devaughn Vele",
@@ -866,7 +866,7 @@
      "p": "TE",
      "t": "CLE",
      "i": "",
-     "pr": 9.58
+     "pr": 9.56
     },
     {
      "n": "Rome Odunze",
@@ -926,7 +926,7 @@
     }
    ],
    "free": [
-    "Malik Willis (15.8) over Cam Skattebo NYG (14.0) at FLEX"
+    "Malik Willis (16.0) over Cam Skattebo NYG (14.0) at FLEX"
    ],
    "standings": [
     {
