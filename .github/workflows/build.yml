@@ -1,0 +1,68 @@
+name: Rebuild fantasy page
+
+# Runs on GitHub's servers. Nothing here needs Luke's Lenovo to be on.
+#
+# GitHub Actions cron is UTC-only and does NOT follow US daylight saving, so each
+# target Eastern time is listed twice: once for EDT (UTC-4, Mar-Nov) and once for
+# EST (UTC-5, Nov-Mar). build.py is idempotent, so the duplicate run during the
+# overlap month is harmless - it just rebuilds the same page.
+
+on:
+  schedule:
+    # Tuesday 6:07 AM ET - full weekly rebuild
+    - cron: "7 10 * * 2"
+    - cron: "7 11 * * 2"
+    # Thursday 6:07 AM ET - midweek status
+    - cron: "7 10 * * 4"
+    - cron: "7 11 * * 4"
+    # Sunday 6:07 AM ET - pre-gameday
+    - cron: "7 10 * * 0"
+    - cron: "7 11 * * 0"
+    # Sunday 11:07 AM ET - inactives + survivor lock, before the 1pm kickoffs
+    - cron: "7 15 * * 0"
+    - cron: "7 16 * * 0"
+  workflow_dispatch: {}   # "Run workflow" button, for testing
+  push:
+    branches: [main]
+    paths: ["build.py", ".github/workflows/build.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fantasy-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build the page
+        id: build
+        env:
+          FF_SEASON: "2026"
+        run: python3 build.py
+
+      - name: Show build log
+        if: always()
+        run: cat docs/build.log || echo "no log written"
+
+      - name: Commit the rebuilt page
+        if: always()
+        run: |
+          git config user.name  "fantasy-bot"
+          git config user.email "fantasy-bot@users.noreply.github.com"
+          git add docs
+          if git diff --staged --quiet; then
+            echo "No change this run."
+          else
+            git commit -m "Rebuild $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
