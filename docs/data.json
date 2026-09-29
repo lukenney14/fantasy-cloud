@@ -1,5 +1,5 @@
 {
- "built": "2026-09-29T10:25:29.172701+00:00",
+ "built": "2026-09-29T11:21:46.421233+00:00",
  "week": 4,
  "leagues": [
   {
@@ -246,7 +246,7 @@
    "week": 4,
    "me": "Yurang Diesel",
    "opp": "Peanut Butta Windex",
-   "my_total": 111.89,
+   "my_total": 112.83,
    "opp_total": 115.68,
    "h2h": [
     {
@@ -305,8 +305,8 @@
     },
     {
      "slot": "FLEX",
-     "me": "Alvin Kamara",
-     "mp": 10.58,
+     "me": "Jordan Addison",
+     "mp": 11.52,
      "mi": "Active",
      "opp": "Terry McLaurin",
      "op": 12.94,
@@ -341,11 +341,11 @@
      "i": "Active"
     },
     {
-     "n": "Jordan Addison",
-     "p": "WR",
-     "t": "MIN",
+     "n": "Alvin Kamara",
+     "p": "RB",
+     "t": "NO",
      "slot": "BN",
-     "pr": 11.52,
+     "pr": 10.58,
      "i": "Active"
     },
     {
@@ -398,7 +398,7 @@
     }
    ],
    "free": [
-    "Brock Purdy (18.6) over Alvin Kamara (10.6) at FLEX"
+    "Brock Purdy (18.6) over Jordan Addison (11.5) at FLEX"
    ],
    "standings": [
     {
