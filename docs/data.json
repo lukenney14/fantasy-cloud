@@ -1,5 +1,5 @@
 {
- "built": "2026-10-04T16:18:02.701063+00:00",
+ "built": "2026-10-04T17:57:38.922482+00:00",
  "week": 4,
  "leagues": [
   {
@@ -10,8 +10,8 @@
    "week": 4,
    "me": "Team Bonah",
    "opp": "Is that Braxton?",
-   "my_total": 129.95,
-   "opp_total": 121.57,
+   "my_total": 129.96,
+   "opp_total": 121.58,
    "h2h": [
     {
      "slot": "QB",
@@ -82,13 +82,13 @@
      "mp": 10.76,
      "mi": "Active",
      "opp": "Luther Burden III",
-     "op": 12.4,
+     "op": 12.41,
      "oi": "Active"
     },
     {
      "slot": "D/ST",
      "me": "Ravens D/ST",
-     "mp": 6.69,
+     "mp": 6.7,
      "mi": "",
      "opp": "49ers D/ST",
      "op": 5.9,
@@ -239,7 +239,7 @@
    "week": 4,
    "me": "Yurang Diesel",
    "opp": "Peanut Butta Windex",
-   "my_total": 118.44,
+   "my_total": 118.42,
    "opp_total": 109.22,
    "h2h": [
     {
@@ -263,7 +263,7 @@
     {
      "slot": "RB",
      "me": "Bhayshul Tuten",
-     "mp": 12.67,
+     "mp": 12.66,
      "mi": "Active",
      "opp": "Braelon Allen",
      "op": 12.74,
@@ -272,8 +272,8 @@
     {
      "slot": "WR",
      "me": "Ja'Marr Chase",
-     "mp": 20.43,
-     "mi": "Active",
+     "mp": 20.42,
+     "mi": "Questionable",
      "opp": "Rashee Rice",
      "op": 14.9,
      "oi": "Active"
@@ -503,7 +503,7 @@
    "week": 4,
    "me": "lukekenney",
    "opp": "Smokin\u2019 Flowers",
-   "my_total": 129.4,
+   "my_total": 129.74,
    "opp_total": 143.59,
    "h2h": [
     {
@@ -536,7 +536,7 @@
     {
      "slot": "WR",
      "me": "Davante Adams LAR",
-     "mp": 14.84,
+     "mp": 15.25,
      "mi": "",
      "opp": "Ladd McConkey LAC",
      "op": 12.23,
@@ -545,7 +545,7 @@
     {
      "slot": "WR",
      "me": "Matthew Golden GB",
-     "mp": 12.04,
+     "mp": 12.06,
      "mi": "",
      "opp": "Parker Washington JAX",
      "op": 17.13,
@@ -581,7 +581,7 @@
     {
      "slot": "K",
      "me": "Eddy Pineiro SF",
-     "mp": 9.21,
+     "mp": 9.17,
      "mi": "",
      "opp": "Evan McPherson CIN",
      "op": 9.21,
@@ -590,7 +590,7 @@
     {
      "slot": "DEF",
      "me": "Philadelphia Eagles PHI",
-     "mp": 6.32,
+     "mp": 6.27,
      "mi": "",
      "opp": "Buffalo Bills BUF",
      "op": 7.23,
@@ -738,13 +738,13 @@
    "week": 4,
    "me": "lukekenney",
    "opp": "Autopick Entourage",
-   "my_total": 136.72,
-   "opp_total": 123.0,
+   "my_total": 136.69,
+   "opp_total": 122.95,
    "h2h": [
     {
      "slot": "QB",
      "me": "Jalen Hurts PHI",
-     "mp": 16.66,
+     "mp": 16.57,
      "mi": "",
      "opp": "Bryce Young CAR",
      "op": 19.3,
@@ -756,8 +756,8 @@
      "mp": 17.39,
      "mi": "",
      "opp": "Saquon Barkley PHI",
-     "op": 14.73,
-     "oi": ""
+     "op": 14.68,
+     "oi": "Questionable"
     },
     {
      "slot": "RB",
@@ -771,7 +771,7 @@
     {
      "slot": "WR",
      "me": "Christian Watson GB",
-     "mp": 15.21,
+     "mp": 15.17,
      "mi": "",
      "opp": "Rashee Rice KC",
      "op": 14.03,
@@ -807,7 +807,7 @@
     {
      "slot": "FLEX",
      "me": "Malik Nabers NYG",
-     "mp": 13.89,
+     "mp": 13.93,
      "mi": "",
      "opp": "Mack Hollins NE",
      "op": 8.75,
@@ -816,7 +816,7 @@
     {
      "slot": "K",
      "me": "Chase McLaughlin TB",
-     "mp": 7.57,
+     "mp": 7.63,
      "mi": "",
      "opp": "Harrison Butker KC",
      "op": 8.18,
@@ -829,21 +829,21 @@
      "p": "QB",
      "t": "MIA",
      "i": "",
-     "pr": 13.39
+     "pr": 13.27
     },
     {
      "n": "Matthew Golden",
      "p": "WR",
      "t": "GB",
      "i": "",
-     "pr": 12.06
+     "pr": 12.08
     },
     {
      "n": "George Kittle",
      "p": "TE",
      "t": "SF",
      "i": "",
-     "pr": 11.98
+     "pr": 11.95
     },
     {
      "n": "Jameson Williams",
@@ -864,7 +864,7 @@
      "p": "WR",
      "t": "PHI",
      "i": "",
-     "pr": 10.13
+     "pr": 10.05
     },
     {
      "n": "Rome Odunze",
@@ -899,14 +899,7 @@
      "p": "TE",
      "t": "LAR",
      "i": "",
-     "pr": 1.53
-    },
-    {
-     "n": "Jaylin Lane",
-     "p": "WR",
-     "t": "WAS",
-     "i": "Questionable",
-     "pr": 0.59
+     "pr": 1.52
     },
     {
      "n": "Roschon Johnson",
@@ -919,6 +912,13 @@
      "n": "Trey Benson",
      "p": "RB",
      "t": "ARI",
+     "i": "IR",
+     "pr": 0.0
+    },
+    {
+     "n": "Ricky Pearsall",
+     "p": "WR",
+     "t": "SF",
      "i": "IR",
      "pr": 0.0
     }
