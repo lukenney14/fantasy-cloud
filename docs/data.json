@@ -1,5 +1,5 @@
 {
- "built": "2026-10-11T10:17:05.980696+00:00",
+ "built": "2026-10-11T11:22:54.919472+00:00",
  "week": 5,
  "leagues": [
   {
@@ -510,8 +510,8 @@
    "week": 5,
    "me": "lukekenney",
    "opp": "Team Diapetes",
-   "my_total": 130.62,
-   "opp_total": 120.59,
+   "my_total": 130.77,
+   "opp_total": 120.71,
    "h2h": [
     {
      "slot": "QB",
@@ -534,7 +534,7 @@
     {
      "slot": "RB",
      "me": "Cam Skattebo NYG",
-     "mp": 12.57,
+     "mp": 12.69,
      "mi": "",
      "opp": "Emanuel Wilson SEA",
      "op": 12.38,
@@ -564,13 +564,13 @@
      "mp": 10.78,
      "mi": "",
      "opp": "Colston Loveland CHI",
-     "op": 9.93,
+     "op": 10.01,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Matthew Golden GB",
-     "mp": 12.86,
+     "mp": 12.89,
      "mi": "",
      "opp": "Woody Marks HOU",
      "op": 8.81,
@@ -591,7 +591,7 @@
      "mp": 8.15,
      "mi": "",
      "opp": "Trey Smack GB",
-     "op": 9.03,
+     "op": 9.07,
      "oi": ""
     },
     {
@@ -649,7 +649,7 @@
     }
    ],
    "free": [
-    "Braelon Allen (15.3) over Cam Skattebo NYG (12.6) at RB"
+    "Braelon Allen (15.3) over Cam Skattebo NYG (12.7) at RB"
    ],
    "standings": [
     {
@@ -747,7 +747,7 @@
    "week": 5,
    "me": "lukekenney",
    "opp": "Baby Kyler",
-   "my_total": 124.58,
+   "my_total": 124.43,
    "opp_total": 115.26,
    "h2h": [
     {
@@ -771,7 +771,7 @@
     {
      "slot": "RB",
      "me": "Cam Skattebo NYG",
-     "mp": 12.65,
+     "mp": 12.77,
      "mi": "",
      "opp": "Bucky Irving TB",
      "op": 15.24,
@@ -780,7 +780,7 @@
     {
      "slot": "WR",
      "me": "Christian Watson GB",
-     "mp": 15.58,
+     "mp": 15.67,
      "mi": "",
      "opp": "Carnell Tate TEN",
      "op": 12.16,
@@ -807,7 +807,7 @@
     {
      "slot": "FLEX",
      "me": "Matthew Golden GB",
-     "mp": 12.89,
+     "mp": 12.92,
      "mi": "",
      "opp": "Ollie Gordon MIA",
      "op": 12.52,
@@ -816,7 +816,7 @@
     {
      "slot": "FLEX",
      "me": "Malik Nabers NYG",
-     "mp": 14.37,
+     "mp": 13.98,
      "mi": "",
      "opp": "Emanuel Wilson SEA",
      "op": 12.47,
@@ -859,7 +859,7 @@
      "p": "WR",
      "t": "CHI",
      "i": "",
-     "pr": 9.68
+     "pr": 9.76
     },
     {
      "n": "Devaughn Vele",
@@ -894,7 +894,7 @@
      "p": "RB",
      "t": "CHI",
      "i": "",
-     "pr": 6.52
+     "pr": 6.53
     },
     {
      "n": "Isaiah Davis",
