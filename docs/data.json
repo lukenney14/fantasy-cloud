@@ -1,5 +1,5 @@
 {
- "built": "2026-10-11T11:22:54.919472+00:00",
+ "built": "2026-10-11T15:17:02.211354+00:00",
  "week": 5,
  "leagues": [
   {
@@ -11,7 +11,7 @@
    "me": "Team Bonah",
    "opp": "LARO1",
    "my_total": 142.98,
-   "opp_total": 120.9,
+   "opp_total": 114.28,
    "h2h": [
     {
      "slot": "QB",
@@ -45,17 +45,17 @@
      "me": "Puka Nacua",
      "mp": 21.68,
      "mi": "Active",
-     "opp": "DJ Moore",
-     "op": 12.57,
-     "oi": "Questionable"
+     "opp": "Brian Thomas Jr.",
+     "op": 7.57,
+     "oi": "Active"
     },
     {
      "slot": "WR",
      "me": "CeeDee Lamb",
      "mp": 19.15,
      "mi": "Questionable",
-     "opp": "Brian Thomas Jr.",
-     "op": 7.57,
+     "opp": "Cooper Kupp",
+     "op": 5.95,
      "oi": "Active"
     },
     {
@@ -248,8 +248,8 @@
    "week": 5,
    "me": "Yurang Diesel",
    "opp": "Love Rammin Mahomeys",
-   "my_total": 126.68,
-   "opp_total": 121.94,
+   "my_total": 126.69,
+   "opp_total": 125.1,
    "h2h": [
     {
      "slot": "QB",
@@ -275,7 +275,7 @@
      "mp": 13.93,
      "mi": "Active",
      "opp": "Jaylen Warren",
-     "op": 14.42,
+     "op": 17.58,
      "oi": "Active"
     },
     {
@@ -317,7 +317,7 @@
     {
      "slot": "D/ST",
      "me": "Jaguars D/ST",
-     "mp": 7.21,
+     "mp": 7.22,
      "mi": "",
      "opp": "Jets D/ST",
      "op": 7.51,
@@ -510,8 +510,8 @@
    "week": 5,
    "me": "lukekenney",
    "opp": "Team Diapetes",
-   "my_total": 130.77,
-   "opp_total": 120.71,
+   "my_total": 131.02,
+   "opp_total": 121.59,
    "h2h": [
     {
      "slot": "QB",
@@ -525,10 +525,10 @@
     {
      "slot": "RB",
      "me": "Aaron Jones MIN",
-     "mp": 13.91,
+     "mp": 14.1,
      "mi": "",
      "opp": "Ashton Jeanty LV",
-     "op": 12.71,
+     "op": 12.7,
      "oi": "Questionable"
     },
     {
@@ -537,7 +537,7 @@
      "mp": 12.69,
      "mi": "",
      "opp": "Emanuel Wilson SEA",
-     "op": 12.38,
+     "op": 12.39,
      "oi": ""
     },
     {
@@ -552,37 +552,37 @@
     {
      "slot": "WR",
      "me": "Justin Jefferson MIN",
-     "mp": 16.17,
+     "mp": 16.43,
      "mi": "Questionable",
      "opp": "Carnell Tate TEN",
-     "op": 12.14,
+     "op": 12.19,
      "oi": "Questionable"
     },
     {
      "slot": "TE",
      "me": "Tyler Warren IND",
-     "mp": 10.78,
+     "mp": 10.62,
      "mi": "",
      "opp": "Colston Loveland CHI",
-     "op": 10.01,
+     "op": 9.93,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Matthew Golden GB",
-     "mp": 12.89,
+     "mp": 12.86,
      "mi": "",
      "opp": "Woody Marks HOU",
-     "op": 8.81,
+     "op": 8.75,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Rhamondre Stevenson NE",
-     "mp": 13.05,
+     "mp": 13.04,
      "mi": "Questionable",
      "opp": "Romeo Doubs NE",
-     "op": 12.8,
+     "op": 12.89,
      "oi": ""
     },
     {
@@ -591,7 +591,7 @@
      "mp": 8.15,
      "mi": "",
      "opp": "Trey Smack GB",
-     "op": 9.07,
+     "op": 9.03,
      "oi": ""
     },
     {
@@ -600,7 +600,7 @@
      "mp": 5.45,
      "mi": "",
      "opp": "Cleveland Browns CLE",
-     "op": 7.01,
+     "op": 7.93,
      "oi": ""
     }
    ],
@@ -610,14 +610,14 @@
      "p": "RB",
      "t": "NYJ",
      "i": "",
-     "pr": 15.26
+     "pr": 15.21
     },
     {
      "n": "Kenyon Sadiq",
      "p": "TE",
      "t": "NYJ",
      "i": "",
-     "pr": 8.8
+     "pr": 8.71
     },
     {
      "n": "Kenny Gainwell",
@@ -649,7 +649,7 @@
     }
    ],
    "free": [
-    "Braelon Allen (15.3) over Cam Skattebo NYG (12.7) at RB"
+    "Braelon Allen (15.2) over Cam Skattebo NYG (12.7) at RB"
    ],
    "standings": [
     {
@@ -747,8 +747,8 @@
    "week": 5,
    "me": "lukekenney",
    "opp": "Baby Kyler",
-   "my_total": 124.43,
-   "opp_total": 115.26,
+   "my_total": 124.53,
+   "opp_total": 116.2,
    "h2h": [
     {
      "slot": "QB",
@@ -756,16 +756,16 @@
      "mp": 14.91,
      "mi": "",
      "opp": "Kyler Murray MIN",
-     "op": 16.72,
+     "op": 17.17,
      "oi": ""
     },
     {
      "slot": "RB",
      "me": "Chase Brown CIN",
-     "mp": 17.69,
+     "mp": 17.81,
      "mi": "",
      "opp": "Ashton Jeanty LV",
-     "op": 12.79,
+     "op": 12.78,
      "oi": "Questionable"
     },
     {
@@ -780,25 +780,25 @@
     {
      "slot": "WR",
      "me": "Christian Watson GB",
-     "mp": 15.67,
+     "mp": 15.58,
      "mi": "",
      "opp": "Carnell Tate TEN",
-     "op": 12.16,
+     "op": 12.21,
      "oi": "Questionable"
     },
     {
      "slot": "WR",
      "me": "Chris Olave NO",
-     "mp": 16.13,
+     "mp": 16.21,
      "mi": "",
      "opp": "Justin Jefferson MIN",
-     "op": 16.2,
+     "op": 16.46,
      "oi": "Questionable"
     },
     {
      "slot": "TE",
      "me": "George Kittle SF",
-     "mp": 12.63,
+     "mp": 12.57,
      "mi": "",
      "opp": "Dalton Kincaid BUF",
      "op": 10.21,
@@ -807,19 +807,19 @@
     {
      "slot": "FLEX",
      "me": "Matthew Golden GB",
-     "mp": 12.92,
+     "mp": 12.89,
      "mi": "",
      "opp": "Ollie Gordon MIA",
-     "op": 12.52,
+     "op": 12.71,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Malik Nabers NYG",
-     "mp": 13.98,
+     "mp": 14.06,
      "mi": "",
      "opp": "Emanuel Wilson SEA",
-     "op": 12.47,
+     "op": 12.48,
      "oi": ""
     },
     {
@@ -828,7 +828,7 @@
      "mp": 7.73,
      "mi": "",
      "opp": "Cameron Dicker LAC",
-     "op": 6.95,
+     "op": 6.94,
      "oi": ""
     }
    ],
@@ -838,7 +838,7 @@
      "p": "QB",
      "t": "HOU",
      "i": "",
-     "pr": 15.33
+     "pr": 15.24
     },
     {
      "n": "Jameson Williams",
@@ -852,14 +852,14 @@
      "p": "TE",
      "t": "CLE",
      "i": "",
-     "pr": 10.68
+     "pr": 10.52
     },
     {
      "n": "Rome Odunze",
      "p": "WR",
      "t": "CHI",
      "i": "",
-     "pr": 9.76
+     "pr": 9.68
     },
     {
      "n": "Devaughn Vele",
@@ -880,7 +880,7 @@
      "p": "WR",
      "t": "PIT",
      "i": "",
-     "pr": 9.18
+     "pr": 9.08
     },
     {
      "n": "Makai Lemon",
@@ -894,14 +894,14 @@
      "p": "RB",
      "t": "CHI",
      "i": "",
-     "pr": 6.53
+     "pr": 6.52
     },
     {
      "n": "Isaiah Davis",
      "p": "RB",
      "t": "NYJ",
      "i": "",
-     "pr": 5.57
+     "pr": 5.52
     },
     {
      "n": "Rashod Bateman",
@@ -933,7 +933,7 @@
     }
    ],
    "free": [
-    "C.J. Stroud (15.3) over Matthew Golden GB (12.9) at FLEX"
+    "C.J. Stroud (15.2) over Matthew Golden GB (12.9) at FLEX"
    ],
    "standings": [
     {
