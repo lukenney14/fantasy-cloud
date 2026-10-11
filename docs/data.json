@@ -1,5 +1,5 @@
 {
- "built": "2026-10-11T15:17:02.211354+00:00",
+ "built": "2026-10-11T16:19:13.556759+00:00",
  "week": 5,
  "leagues": [
   {
@@ -74,7 +74,7 @@
      "mi": "Active",
      "opp": "Justin Jefferson",
      "op": 18.51,
-     "oi": "Questionable"
+     "oi": "Active"
     },
     {
      "slot": "FLEX",
@@ -110,7 +110,7 @@
      "t": "WSH",
      "slot": "BN",
      "pr": 12.79,
-     "i": "Questionable"
+     "i": "Active"
     },
     {
      "n": "Mike Evans",
@@ -282,7 +282,7 @@
      "slot": "WR",
      "me": "Ja'Marr Chase",
      "mp": 21.78,
-     "mi": "Questionable",
+     "mi": "Active",
      "opp": "Amon-Ra St. Brown",
      "op": 20.0,
      "oi": "Active"
@@ -309,7 +309,7 @@
      "slot": "FLEX",
      "me": "Alvin Kamara",
      "mp": 11.16,
-     "mi": "Questionable",
+     "mi": "Active",
      "opp": "Zay Flowers",
      "op": 13.99,
      "oi": "Questionable"
@@ -510,8 +510,8 @@
    "week": 5,
    "me": "lukekenney",
    "opp": "Team Diapetes",
-   "my_total": 131.02,
-   "opp_total": 121.59,
+   "my_total": 130.75,
+   "opp_total": 121.82,
    "h2h": [
     {
      "slot": "QB",
@@ -525,11 +525,11 @@
     {
      "slot": "RB",
      "me": "Aaron Jones MIN",
-     "mp": 14.1,
+     "mp": 13.97,
      "mi": "",
      "opp": "Ashton Jeanty LV",
      "op": 12.7,
-     "oi": "Questionable"
+     "oi": ""
     },
     {
      "slot": "RB",
@@ -552,11 +552,11 @@
     {
      "slot": "WR",
      "me": "Justin Jefferson MIN",
-     "mp": 16.43,
-     "mi": "Questionable",
+     "mp": 16.29,
+     "mi": "",
      "opp": "Carnell Tate TEN",
-     "op": 12.19,
-     "oi": "Questionable"
+     "op": 12.42,
+     "oi": ""
     },
     {
      "slot": "TE",
@@ -580,7 +580,7 @@
      "slot": "FLEX",
      "me": "Rhamondre Stevenson NE",
      "mp": 13.04,
-     "mi": "Questionable",
+     "mi": "",
      "opp": "Romeo Doubs NE",
      "op": 12.89,
      "oi": ""
@@ -631,7 +631,7 @@
      "p": "RB",
      "t": "TEN",
      "i": "",
-     "pr": 6.61
+     "pr": 6.7
     },
     {
      "n": "Michael Pittman",
@@ -747,8 +747,8 @@
    "week": 5,
    "me": "lukekenney",
    "opp": "Baby Kyler",
-   "my_total": 124.53,
-   "opp_total": 116.2,
+   "my_total": 124.45,
+   "opp_total": 115.95,
    "h2h": [
     {
      "slot": "QB",
@@ -756,7 +756,7 @@
      "mp": 14.91,
      "mi": "",
      "opp": "Kyler Murray MIN",
-     "op": 17.17,
+     "op": 16.84,
      "oi": ""
     },
     {
@@ -766,7 +766,7 @@
      "mi": "",
      "opp": "Ashton Jeanty LV",
      "op": 12.78,
-     "oi": "Questionable"
+     "oi": ""
     },
     {
      "slot": "RB",
@@ -783,17 +783,17 @@
      "mp": 15.58,
      "mi": "",
      "opp": "Carnell Tate TEN",
-     "op": 12.21,
-     "oi": "Questionable"
+     "op": 12.44,
+     "oi": ""
     },
     {
      "slot": "WR",
      "me": "Chris Olave NO",
-     "mp": 16.21,
+     "mp": 16.13,
      "mi": "",
      "opp": "Justin Jefferson MIN",
-     "op": 16.46,
-     "oi": "Questionable"
+     "op": 16.32,
+     "oi": ""
     },
     {
      "slot": "TE",
@@ -810,7 +810,7 @@
      "mp": 12.89,
      "mi": "",
      "opp": "Ollie Gordon MIA",
-     "op": 12.71,
+     "op": 12.7,
      "oi": ""
     },
     {
