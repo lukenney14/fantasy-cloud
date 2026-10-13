@@ -1,5 +1,5 @@
 {
- "built": "2026-10-13T10:28:16.303167+00:00",
+ "built": "2026-10-13T11:25:41.118769+00:00",
  "week": 6,
  "leagues": [
   {
@@ -518,8 +518,8 @@
    "week": 6,
    "me": "lukekenney",
    "opp": "Didnt want any of yall",
-   "my_total": 127.04,
-   "opp_total": 133.7,
+   "my_total": 127.26,
+   "opp_total": 134.02,
    "h2h": [
     {
      "slot": "QB",
@@ -527,7 +527,7 @@
      "mp": 19.27,
      "mi": "",
      "opp": "Matthew Stafford LAR",
-     "op": 23.93,
+     "op": 24.38,
      "oi": ""
     },
     {
@@ -551,7 +551,7 @@
     {
      "slot": "WR",
      "me": "Davante Adams LAR",
-     "mp": 17.34,
+     "mp": 17.56,
      "mi": "",
      "opp": "Wan'Dale Robinson TEN",
      "op": 11.29,
@@ -563,7 +563,7 @@
      "mp": 15.16,
      "mi": "",
      "opp": "Kendrick Bourne ARI",
-     "op": 8.3,
+     "op": 8.23,
      "oi": ""
     },
     {
@@ -572,7 +572,7 @@
      "mp": 12.68,
      "mi": "",
      "opp": "Brock Bowers LV",
-     "op": 16.79,
+     "op": 16.73,
      "oi": ""
     },
     {
@@ -754,7 +754,7 @@
    "me": "lukekenney",
    "opp": "Cookie Rats",
    "my_total": 138.35,
-   "opp_total": 126.19,
+   "opp_total": 126.15,
    "h2h": [
     {
      "slot": "QB",
@@ -771,7 +771,7 @@
      "mp": 21.67,
      "mi": "",
      "opp": "James Cook BUF",
-     "op": 17.56,
+     "op": 17.57,
      "oi": ""
     },
     {
@@ -780,7 +780,7 @@
      "mp": 13.65,
      "mi": "",
      "opp": "Jeremiyah Love ARI",
-     "op": 10.09,
+     "op": 10.0,
      "oi": ""
     },
     {
@@ -789,7 +789,7 @@
      "mp": 18.32,
      "mi": "",
      "opp": "Jaylen Waddle DEN",
-     "op": 11.2,
+     "op": 11.25,
      "oi": ""
     },
     {
@@ -834,7 +834,7 @@
      "mp": 7.47,
      "mi": "",
      "opp": "Jason Myers SEA",
-     "op": 7.85,
+     "op": 7.84,
      "oi": ""
     }
    ],
