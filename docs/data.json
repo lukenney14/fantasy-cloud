@@ -1,5 +1,5 @@
 {
- "built": "2026-10-18T15:24:05.559640+00:00",
+ "built": "2026-10-18T16:27:26.234084+00:00",
  "week": 6,
  "leagues": [
   {
@@ -10,8 +10,8 @@
    "week": 6,
    "me": "Team Bonah",
    "opp": "Team Isaiah",
-   "my_total": 151.77,
-   "opp_total": 128.3,
+   "my_total": 148.35,
+   "opp_total": 128.42,
    "h2h": [
     {
      "slot": "QB",
@@ -20,7 +20,7 @@
      "mi": "Active",
      "opp": "Caleb Williams",
      "op": 16.7,
-     "oi": "Questionable"
+     "oi": "Active"
     },
     {
      "slot": "RB",
@@ -33,9 +33,9 @@
     },
     {
      "slot": "RB",
-     "me": "Quinshon Judkins",
-     "mp": 13.53,
-     "mi": "Questionable",
+     "me": "Jaleel McLaughlin",
+     "mp": 10.54,
+     "mi": "Active",
      "opp": "Bhayshul Tuten",
      "op": 13.07,
      "oi": "Active"
@@ -55,7 +55,7 @@
      "mp": 18.61,
      "mi": "Active",
      "opp": "Denzel Boston",
-     "op": 13.48,
+     "op": 13.51,
      "oi": "Active"
     },
     {
@@ -74,7 +74,7 @@
      "mi": "Active",
      "opp": "A.J. Brown",
      "op": 12.71,
-     "oi": "Questionable"
+     "oi": "Active"
     },
     {
      "slot": "FLEX",
@@ -88,10 +88,10 @@
     {
      "slot": "D/ST",
      "me": "Ravens D/ST",
-     "mp": 7.46,
+     "mp": 7.03,
      "mi": "",
      "opp": "Rams D/ST",
-     "op": 7.19,
+     "op": 7.28,
      "oi": ""
     }
    ],
@@ -113,12 +113,12 @@
      "i": "Active"
     },
     {
-     "n": "Makai Lemon",
-     "p": "WR",
-     "t": "PHI",
+     "n": "Quinshon Judkins",
+     "p": "RB",
+     "t": "CLE",
      "slot": "BN",
-     "pr": 5.59,
-     "i": "Active"
+     "pr": 0.0,
+     "i": "Out"
     },
     {
      "n": "Aaron Jones Sr.",
@@ -246,8 +246,8 @@
    "week": 6,
    "me": "Yurang Diesel",
    "opp": "GARGLON DEEZNUTZ",
-   "my_total": 114.5,
-   "opp_total": 126.91,
+   "my_total": 114.62,
+   "opp_total": 127.8,
    "h2h": [
     {
      "slot": "QB",
@@ -273,7 +273,7 @@
      "mp": 13.07,
      "mi": "Active",
      "opp": "Bucky Irving",
-     "op": 15.17,
+     "op": 16.06,
      "oi": "Active"
     },
     {
@@ -297,17 +297,17 @@
     {
      "slot": "TE",
      "me": "Harold Fannin Jr.",
-     "mp": 10.23,
+     "mp": 10.26,
      "mi": "Active",
      "opp": "Kenyon Sadiq",
      "op": 6.34,
-     "oi": "Questionable"
+     "oi": "Active"
     },
     {
      "slot": "FLEX",
      "me": "Alvin Kamara",
      "mp": 10.08,
-     "mi": "Questionable",
+     "mi": "Active",
      "opp": "DK Metcalf",
      "op": 11.58,
      "oi": "Active"
@@ -315,7 +315,7 @@
     {
      "slot": "D/ST",
      "me": "Jaguars D/ST",
-     "mp": 6.13,
+     "mp": 6.22,
      "mi": "",
      "opp": "Steelers D/ST",
      "op": 6.95,
@@ -361,7 +361,7 @@
      "p": "WR",
      "t": "CLE",
      "slot": "BN",
-     "pr": 8.2,
+     "pr": 8.21,
      "i": "Active"
     },
     {
@@ -510,8 +510,8 @@
    "week": 6,
    "me": "lukekenney",
    "opp": "Didnt want any of yall",
-   "my_total": 128.66,
-   "opp_total": 130.69,
+   "my_total": 117.83,
+   "opp_total": 120.39,
    "h2h": [
     {
      "slot": "QB",
@@ -519,7 +519,7 @@
      "mp": 19.76,
      "mi": "",
      "opp": "Matthew Stafford LAR",
-     "op": 23.45,
+     "op": 23.18,
      "oi": ""
     },
     {
@@ -537,16 +537,16 @@
      "mp": 10.07,
      "mi": "",
      "opp": "Quinshon Judkins CLE",
-     "op": 10.19,
-     "oi": "Questionable"
+     "op": 0.0,
+     "oi": "Out"
     },
     {
      "slot": "WR",
      "me": "Davante Adams LAR",
-     "mp": 16.71,
+     "mp": 16.56,
      "mi": "",
      "opp": "Wan'Dale Robinson TEN",
-     "op": 11.01,
+     "op": 11.0,
      "oi": ""
     },
     {
@@ -555,14 +555,14 @@
      "mp": 15.64,
      "mi": "",
      "opp": "Kendrick Bourne ARI",
-     "op": 8.24,
+     "op": 8.22,
      "oi": ""
     },
     {
      "slot": "TE",
      "me": "Tyler Warren IND",
-     "mp": 10.68,
-     "mi": "Questionable",
+     "mp": 0.0,
+     "mi": "Out",
      "opp": "Brock Bowers LV",
      "op": 16.81,
      "oi": ""
@@ -573,7 +573,7 @@
      "mp": 13.32,
      "mi": "",
      "opp": "Chris Godwin TB",
-     "op": 9.12,
+     "op": 9.31,
      "oi": ""
     },
     {
@@ -610,14 +610,14 @@
      "p": "RB",
      "t": "TB",
      "i": "",
-     "pr": 8.79
+     "pr": 8.81
     },
     {
      "n": "Tyjae Spears",
      "p": "RB",
      "t": "TEN",
-     "i": "Questionable",
-     "pr": 7.47
+     "i": "",
+     "pr": 8.71
     },
     {
      "n": "Aaron Jones",
@@ -745,8 +745,8 @@
    "week": 6,
    "me": "lukekenney",
    "opp": "Cookie Rats",
-   "my_total": 137.57,
-   "opp_total": 115.45,
+   "my_total": 137.52,
+   "opp_total": 117.31,
    "h2h": [
     {
      "slot": "QB",
@@ -788,7 +788,7 @@
      "slot": "WR",
      "me": "Chris Olave NO",
      "mp": 17.44,
-     "mi": "Questionable",
+     "mi": "",
      "opp": "Mike Evans SF",
      "op": 16.56,
      "oi": "Questionable"
@@ -808,7 +808,7 @@
      "mp": 15.67,
      "mi": "",
      "opp": "Zay Flowers BAL",
-     "op": 15.5,
+     "op": 17.36,
      "oi": ""
     },
     {
@@ -823,7 +823,7 @@
     {
      "slot": "K",
      "me": "Chase McLaughlin TB",
-     "mp": 7.57,
+     "mp": 7.52,
      "mi": "",
      "opp": "Jason Myers SEA",
      "op": 7.82,
@@ -836,7 +836,7 @@
      "p": "TE",
      "t": "CLE",
      "i": "",
-     "pr": 10.68
+     "pr": 11.18
     },
     {
      "n": "Devaughn Vele",
@@ -850,7 +850,7 @@
      "p": "TE",
      "t": "PHI",
      "i": "",
-     "pr": 10.23
+     "pr": 10.43
     },
     {
      "n": "Rome Odunze",
@@ -871,14 +871,14 @@
      "p": "WR",
      "t": "BAL",
      "i": "",
-     "pr": 5.3
+     "pr": 6.21
     },
     {
      "n": "Makai Lemon",
      "p": "WR",
      "t": "PHI",
      "i": "",
-     "pr": 5.12
+     "pr": 5.28
     },
     {
      "n": "Isaiah Davis",
@@ -892,14 +892,14 @@
      "p": "RB",
      "t": "PHI",
      "i": "",
-     "pr": 3.59
+     "pr": 4.36
     },
     {
      "n": "Max Klare",
      "p": "TE",
      "t": "LAR",
      "i": "",
-     "pr": 0.1
+     "pr": 0.09
     },
     {
      "n": "Trey Benson",
