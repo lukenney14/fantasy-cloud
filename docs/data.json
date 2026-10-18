@@ -1,5 +1,5 @@
 {
- "built": "2026-10-18T11:31:21.938276+00:00",
+ "built": "2026-10-18T15:24:05.559640+00:00",
  "week": 6,
  "leagues": [
   {
@@ -510,8 +510,8 @@
    "week": 6,
    "me": "lukekenney",
    "opp": "Didnt want any of yall",
-   "my_total": 132.08,
-   "opp_total": 130.47,
+   "my_total": 128.66,
+   "opp_total": 130.69,
    "h2h": [
     {
      "slot": "QB",
@@ -519,13 +519,13 @@
      "mp": 19.76,
      "mi": "",
      "opp": "Matthew Stafford LAR",
-     "op": 23.23,
+     "op": 23.45,
      "oi": ""
     },
     {
      "slot": "RB",
      "me": "Rhamondre Stevenson NE",
-     "mp": 14.95,
+     "mp": 14.84,
      "mi": "",
      "opp": "Christian McCaffrey SF",
      "op": 20.81,
@@ -534,7 +534,7 @@
     {
      "slot": "RB",
      "me": "Cam Skattebo NYG",
-     "mp": 13.17,
+     "mp": 10.07,
      "mi": "",
      "opp": "Quinshon Judkins CLE",
      "op": 10.19,
@@ -543,16 +543,16 @@
     {
      "slot": "WR",
      "me": "Davante Adams LAR",
-     "mp": 16.6,
+     "mp": 16.71,
      "mi": "",
      "opp": "Wan'Dale Robinson TEN",
-     "op": 11.11,
+     "op": 11.01,
      "oi": ""
     },
     {
      "slot": "WR",
      "me": "Matthew Golden GB",
-     "mp": 15.7,
+     "mp": 15.64,
      "mi": "",
      "opp": "Kendrick Bourne ARI",
      "op": 8.24,
@@ -561,7 +561,7 @@
     {
      "slot": "TE",
      "me": "Tyler Warren IND",
-     "mp": 10.88,
+     "mp": 10.68,
      "mi": "Questionable",
      "opp": "Brock Bowers LV",
      "op": 16.81,
@@ -570,16 +570,16 @@
     {
      "slot": "FLEX",
      "me": "Braelon Allen NYJ",
-     "mp": 13.37,
+     "mp": 13.32,
      "mi": "",
      "opp": "Chris Godwin TB",
-     "op": 9.05,
+     "op": 9.12,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Kendre Miller NO",
-     "mp": 9.31,
+     "mp": 9.3,
      "mi": "",
      "opp": "Travis Kelce KC",
      "op": 13.79,
@@ -591,7 +591,7 @@
      "mp": 9.36,
      "mi": "",
      "opp": "Cam Little JAX",
-     "op": 8.61,
+     "op": 8.64,
      "oi": ""
     },
     {
@@ -610,14 +610,14 @@
      "p": "RB",
      "t": "TB",
      "i": "",
-     "pr": 8.25
+     "pr": 8.79
     },
     {
      "n": "Tyjae Spears",
      "p": "RB",
      "t": "TEN",
      "i": "Questionable",
-     "pr": 7.54
+     "pr": 7.47
     },
     {
      "n": "Aaron Jones",
@@ -745,13 +745,13 @@
    "week": 6,
    "me": "lukekenney",
    "opp": "Cookie Rats",
-   "my_total": 140.86,
-   "opp_total": 115.67,
+   "my_total": 137.57,
+   "opp_total": 115.45,
    "h2h": [
     {
      "slot": "QB",
      "me": "C.J. Stroud HOU",
-     "mp": 15.29,
+     "mp": 15.37,
      "mi": "",
      "opp": "Brock Purdy SF",
      "op": 22.65,
@@ -769,7 +769,7 @@
     {
      "slot": "RB",
      "me": "Cam Skattebo NYG",
-     "mp": 13.25,
+     "mp": 10.14,
      "mi": "",
      "opp": "Jacory Croskey-Merritt WAS",
      "op": 0.0,
@@ -778,7 +778,7 @@
     {
      "slot": "WR",
      "me": "Christian Watson GB",
-     "mp": 18.6,
+     "mp": 18.54,
      "mi": "",
      "opp": "Jaylen Waddle DEN",
      "op": 11.35,
@@ -787,7 +787,7 @@
     {
      "slot": "WR",
      "me": "Chris Olave NO",
-     "mp": 17.54,
+     "mp": 17.44,
      "mi": "Questionable",
      "opp": "Mike Evans SF",
      "op": 16.56,
@@ -799,13 +799,13 @@
      "mp": 15.11,
      "mi": "",
      "opp": "Juwan Johnson NO",
-     "op": 11.07,
+     "op": 10.99,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Matthew Golden GB",
-     "mp": 15.73,
+     "mp": 15.67,
      "mi": "",
      "opp": "Zay Flowers BAL",
      "op": 15.5,
@@ -814,16 +814,16 @@
     {
      "slot": "FLEX",
      "me": "Malik Nabers NYG",
-     "mp": 15.0,
+     "mp": 14.91,
      "mi": "",
      "opp": "Isaiah Likely NYG",
-     "op": 13.78,
+     "op": 13.64,
      "oi": ""
     },
     {
      "slot": "K",
      "me": "Chase McLaughlin TB",
-     "mp": 7.52,
+     "mp": 7.57,
      "mi": "",
      "opp": "Jason Myers SEA",
      "op": 7.82,
@@ -843,7 +843,7 @@
      "p": "WR",
      "t": "NO",
      "i": "",
-     "pr": 10.63
+     "pr": 10.61
     },
     {
      "n": "Dallas Goedert",
@@ -885,7 +885,7 @@
      "p": "RB",
      "t": "NYJ",
      "i": "",
-     "pr": 4.82
+     "pr": 4.77
     },
     {
      "n": "Jaydon Blue",
