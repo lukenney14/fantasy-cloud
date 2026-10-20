@@ -1,5 +1,5 @@
 {
- "built": "2026-10-20T10:35:47.810414+00:00",
+ "built": "2026-10-20T11:34:36.541928+00:00",
  "week": 7,
  "leagues": [
   {
@@ -510,7 +510,7 @@
    "week": 7,
    "me": "lukekenney",
    "opp": "BD is back in town",
-   "my_total": 87.66,
+   "my_total": 114.92,
    "opp_total": 143.5,
    "h2h": [
     {
@@ -533,26 +533,26 @@
     },
     {
      "slot": "RB",
-     "me": "Cam Skattebo NYG",
-     "mp": 2.6,
-     "mi": "",
+     "me": "Aaron Jones MIN",
+     "mp": 10.58,
+     "mi": "Questionable",
      "opp": "Chuba Hubbard CAR",
      "op": 16.19,
      "oi": ""
     },
     {
      "slot": "WR",
-     "me": "Davante Adams LAR",
-     "mp": 0.0,
-     "mi": "Out",
+     "me": "Matthew Golden GB",
+     "mp": 15.51,
+     "mi": "",
      "opp": "A.J. Brown NE",
      "op": 14.78,
      "oi": "Questionable"
     },
     {
      "slot": "WR",
-     "me": "Matthew Golden GB",
-     "mp": 15.51,
+     "me": "Justin Jefferson MIN",
+     "mp": 19.14,
      "mi": "",
      "opp": "Jaylen Waddle DEN",
      "op": 13.66,
@@ -560,17 +560,17 @@
     },
     {
      "slot": "TE",
-     "me": "Tyler Warren IND",
-     "mp": 10.29,
-     "mi": "Out",
+     "me": "Tyler Higbee LAR",
+     "mp": 8.62,
+     "mi": "",
      "opp": "Trey McBride ARI",
      "op": 15.43,
      "oi": ""
     },
     {
      "slot": "FLEX",
-     "me": "Braelon Allen NYJ",
-     "mp": 7.31,
+     "me": "Kenny Gainwell TB",
+     "mp": 9.05,
      "mi": "",
      "opp": "D'Andre Swift CHI",
      "op": 15.77,
@@ -588,7 +588,7 @@
     {
      "slot": "K",
      "me": "Eddy Pineiro SF",
-     "mp": 9.32,
+     "mp": 9.39,
      "mi": "",
      "opp": "Jason Myers SEA",
      "op": 9.06,
@@ -606,32 +606,32 @@
    ],
    "bench": [
     {
-     "n": "Justin Jefferson",
-     "p": "WR",
-     "t": "MIN",
-     "i": "",
-     "pr": 19.14
-    },
-    {
-     "n": "Aaron Jones",
-     "p": "RB",
-     "t": "MIN",
-     "i": "Questionable",
-     "pr": 10.58
-    },
-    {
-     "n": "Kenny Gainwell",
-     "p": "RB",
-     "t": "TB",
-     "i": "",
-     "pr": 9.05
-    },
-    {
-     "n": "Tyler Higbee",
+     "n": "Tyler Warren",
      "p": "TE",
-     "t": "LAR",
+     "t": "IND",
+     "i": "Out",
+     "pr": 10.29
+    },
+    {
+     "n": "Braelon Allen",
+     "p": "RB",
+     "t": "NYJ",
      "i": "",
-     "pr": 8.62
+     "pr": 7.31
+    },
+    {
+     "n": "Cam Skattebo",
+     "p": "RB",
+     "t": "NYG",
+     "i": "",
+     "pr": 2.6
+    },
+    {
+     "n": "Davante Adams",
+     "p": "WR",
+     "t": "LAR",
+     "i": "Out",
+     "pr": 0.0
     },
     {
      "n": "Michael Pittman",
@@ -639,19 +639,10 @@
      "t": "PIT",
      "i": "IR",
      "pr": 0.0
-    },
-    {
-     "n": "De'Von Achane",
-     "p": "RB",
-     "t": "MIA",
-     "i": "IR",
-     "pr": 0.0
     }
    ],
    "free": [
-    "Justin Jefferson (19.1) over Davante Adams LAR (0.0) at WR",
-    "Aaron Jones (10.6) over Cam Skattebo NYG (2.6) at RB",
-    "Kenny Gainwell (9.1) over Cam Skattebo NYG (2.6) at RB"
+    "Tyler Warren (10.3) over Tyler Higbee LAR (8.6) at TE"
    ],
    "standings": [
     {
@@ -749,8 +740,8 @@
    "week": 7,
    "me": "lukekenney",
    "opp": "JD Maxxed Team",
-   "my_total": 137.47,
-   "opp_total": 98.21,
+   "my_total": 137.63,
+   "opp_total": 98.34,
    "h2h": [
     {
      "slot": "QB",
@@ -776,7 +767,7 @@
      "mp": 14.85,
      "mi": "",
      "opp": "Christian McCaffrey SF",
-     "op": 19.67,
+     "op": 19.8,
      "oi": ""
     },
     {
@@ -800,7 +791,7 @@
     {
      "slot": "TE",
      "me": "George Kittle SF",
-     "mp": 14.89,
+     "mp": 15.05,
      "mi": "",
      "opp": "Jake Ferguson DAL",
      "op": 7.99,
