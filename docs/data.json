@@ -1,5 +1,5 @@
 {
- "built": "2026-10-25T11:33:08.671940+00:00",
+ "built": "2026-10-25T15:25:45.848839+00:00",
  "week": 7,
  "leagues": [
   {
@@ -10,8 +10,8 @@
    "week": 7,
    "me": "Team Bonah",
    "opp": "W Banter, L Neck",
-   "my_total": 130.68,
-   "opp_total": 119.74,
+   "my_total": 142.22,
+   "opp_total": 119.71,
    "h2h": [
     {
      "slot": "QB",
@@ -25,10 +25,10 @@
     {
      "slot": "RB",
      "me": "Kyren Williams",
-     "mp": 20.43,
+     "mp": 19.68,
      "mi": "Active",
      "opp": "Bijan Robinson",
-     "op": 21.15,
+     "op": 21.11,
      "oi": "Active"
     },
     {
@@ -42,17 +42,17 @@
     },
     {
      "slot": "WR",
-     "me": "CeeDee Lamb",
-     "mp": 18.53,
-     "mi": "Active",
+     "me": "Puka Nacua",
+     "mp": 22.55,
+     "mi": "Questionable",
      "opp": "Malik Nabers",
-     "op": 17.68,
+     "op": 17.69,
      "oi": "Active"
     },
     {
      "slot": "WR",
-     "me": "Malik Washington",
-     "mp": 10.2,
+     "me": "CeeDee Lamb",
+     "mp": 18.53,
      "mi": "Active",
      "opp": "Carnell Tate",
      "op": 11.11,
@@ -79,7 +79,7 @@
     {
      "slot": "FLEX",
      "me": "Kyle Pitts Sr.",
-     "mp": 9.82,
+     "mp": 9.76,
      "mi": "Active",
      "opp": "Jalen Coker",
      "op": 15.41,
@@ -113,12 +113,12 @@
      "i": "Active"
     },
     {
-     "n": "Puka Nacua",
+     "n": "Malik Washington",
      "p": "WR",
-     "t": "LAR",
+     "t": "MIA",
      "slot": "BN",
-     "pr": 0.0,
-     "i": "Questionable"
+     "pr": 10.2,
+     "i": "Active"
     },
     {
      "n": "Terry McLaurin",
@@ -246,8 +246,8 @@
    "week": 7,
    "me": "Yurang Diesel",
    "opp": "Blue Balls",
-   "my_total": 120.11,
-   "opp_total": 99.14,
+   "my_total": 119.36,
+   "opp_total": 99.08,
    "h2h": [
     {
      "slot": "QB",
@@ -261,7 +261,7 @@
     {
      "slot": "RB",
      "me": "Kyren Williams",
-     "mp": 20.43,
+     "mp": 19.68,
      "mi": "Active",
      "opp": "Tony Pollard",
      "op": 13.37,
@@ -282,7 +282,7 @@
      "mp": 21.79,
      "mi": "Active",
      "opp": "Drake London",
-     "op": 17.16,
+     "op": 17.06,
      "oi": "Active"
     },
     {
@@ -300,7 +300,7 @@
      "mp": 8.17,
      "mi": "Active",
      "opp": "Dallas Goedert",
-     "op": 11.32,
+     "op": 11.31,
      "oi": "Active"
     },
     {
@@ -309,7 +309,7 @@
      "mp": 8.88,
      "mi": "Active",
      "opp": "Pat Freiermuth",
-     "op": 10.03,
+     "op": 10.04,
      "oi": "Active"
     },
     {
@@ -318,7 +318,7 @@
      "mp": 6.12,
      "mi": "",
      "opp": "Broncos D/ST",
-     "op": 6.32,
+     "op": 6.36,
      "oi": ""
     },
     {
@@ -510,8 +510,8 @@
    "week": 7,
    "me": "lukekenney",
    "opp": "BD is back in town",
-   "my_total": 106.75,
-   "opp_total": 142.11,
+   "my_total": 106.87,
+   "opp_total": 142.25,
    "h2h": [
     {
      "slot": "QB",
@@ -528,13 +528,13 @@
      "mp": 11.05,
      "mi": "",
      "opp": "Jonathan Taylor IND",
-     "op": 17.51,
+     "op": 17.37,
      "oi": ""
     },
     {
      "slot": "RB",
      "me": "Aaron Jones Sr. MIN",
-     "mp": 12.65,
+     "mp": 12.73,
      "mi": "",
      "opp": "Chuba Hubbard CAR",
      "op": 16.16,
@@ -552,7 +552,7 @@
     {
      "slot": "WR",
      "me": "Justin Jefferson MIN",
-     "mp": 16.83,
+     "mp": 16.87,
      "mi": "",
      "opp": "Michael Wilson ARI",
      "op": 12.49,
@@ -591,7 +591,7 @@
      "mp": 9.04,
      "mi": "",
      "opp": "Jason Myers SEA",
-     "op": 9.19,
+     "op": 9.47,
      "oi": ""
     },
     {
@@ -610,7 +610,7 @@
      "p": "RB",
      "t": "NYJ",
      "i": "",
-     "pr": 7.3
+     "pr": 15.35
     },
     {
      "n": "Kenny Gainwell",
@@ -624,7 +624,7 @@
      "p": "RB",
      "t": "NYG",
      "i": "",
-     "pr": 4.82
+     "pr": 6.79
     },
     {
      "n": "Davante Adams",
@@ -641,7 +641,9 @@
      "pr": 0.0
     }
    ],
-   "free": [],
+   "free": [
+    "Braelon Allen (15.3) over Rhamondre Stevenson NE (11.1) at RB"
+   ],
    "standings": [
     {
      "team": "Smokin\u2019 Flowers",
@@ -738,8 +740,8 @@
    "week": 7,
    "me": "lukekenney",
    "opp": "JD Maxxed Team",
-   "my_total": 142.94,
-   "opp_total": 113.86,
+   "my_total": 142.95,
+   "opp_total": 121.73,
    "h2h": [
     {
      "slot": "QB",
@@ -747,16 +749,16 @@
      "mp": 18.38,
      "mi": "",
      "opp": "Matthew Stafford LAR",
-     "op": 17.33,
+     "op": 17.4,
      "oi": ""
     },
     {
      "slot": "RB",
      "me": "Kenneth Walker III KC",
-     "mp": 19.29,
+     "mp": 19.28,
      "mi": "",
      "opp": "Jonathan Taylor IND",
-     "op": 17.61,
+     "op": 17.47,
      "oi": ""
     },
     {
@@ -774,7 +776,7 @@
      "mp": 18.05,
      "mi": "",
      "opp": "DK Metcalf PIT",
-     "op": 12.32,
+     "op": 12.14,
      "oi": ""
     },
     {
@@ -807,10 +809,10 @@
     {
      "slot": "FLEX",
      "me": "Malik Nabers NYG",
-     "mp": 14.06,
+     "mp": 14.08,
      "mi": "",
      "opp": "Braelon Allen NYJ",
-     "op": 7.34,
+     "op": 15.46,
      "oi": ""
     },
     {
@@ -878,7 +880,14 @@
      "p": "RB",
      "t": "NYG",
      "i": "",
-     "pr": 4.85
+     "pr": 6.84
+    },
+    {
+     "n": "Isaiah Davis",
+     "p": "RB",
+     "t": "NYJ",
+     "i": "",
+     "pr": 6.26
     },
     {
      "n": "Rashod Bateman",
@@ -893,13 +902,6 @@
      "t": "LAR",
      "i": "",
      "pr": 0.6
-    },
-    {
-     "n": "Isaiah Davis",
-     "p": "RB",
-     "t": "NYJ",
-     "i": "",
-     "pr": 0.36
     },
     {
      "n": "Trey Benson",
