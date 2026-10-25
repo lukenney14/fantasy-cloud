@@ -1,5 +1,5 @@
 {
- "built": "2026-10-25T15:25:45.848839+00:00",
+ "built": "2026-10-25T16:27:45.075099+00:00",
  "week": 7,
  "leagues": [
   {
@@ -10,8 +10,8 @@
    "week": 7,
    "me": "Team Bonah",
    "opp": "W Banter, L Neck",
-   "my_total": 142.22,
-   "opp_total": 119.71,
+   "my_total": 142.21,
+   "opp_total": 119.7,
    "h2h": [
     {
      "slot": "QB",
@@ -55,7 +55,7 @@
      "mp": 18.53,
      "mi": "Active",
      "opp": "Carnell Tate",
-     "op": 11.11,
+     "op": 11.09,
      "oi": "Active"
     },
     {
@@ -82,13 +82,13 @@
      "mp": 9.76,
      "mi": "Active",
      "opp": "Jalen Coker",
-     "op": 15.41,
+     "op": 15.42,
      "oi": "Active"
     },
     {
      "slot": "D/ST",
      "me": "Jets D/ST",
-     "mp": 7.3,
+     "mp": 7.29,
      "mi": "",
      "opp": "Patriots D/ST",
      "op": 4.01,
@@ -117,7 +117,7 @@
      "p": "WR",
      "t": "MIA",
      "slot": "BN",
-     "pr": 10.2,
+     "pr": 10.21,
      "i": "Active"
     },
     {
@@ -247,7 +247,7 @@
    "me": "Yurang Diesel",
    "opp": "Blue Balls",
    "my_total": 119.36,
-   "opp_total": 99.08,
+   "opp_total": 99.84,
    "h2h": [
     {
      "slot": "QB",
@@ -264,7 +264,7 @@
      "mp": 19.68,
      "mi": "Active",
      "opp": "Tony Pollard",
-     "op": 13.37,
+     "op": 13.81,
      "oi": "Active"
     },
     {
@@ -273,7 +273,7 @@
      "mp": 8.15,
      "mi": "Active",
      "opp": "Chuba Hubbard",
-     "op": 14.49,
+     "op": 14.78,
      "oi": "Active"
     },
     {
@@ -300,7 +300,7 @@
      "mp": 8.17,
      "mi": "Active",
      "opp": "Dallas Goedert",
-     "op": 11.31,
+     "op": 11.34,
      "oi": "Active"
     },
     {
@@ -510,8 +510,8 @@
    "week": 7,
    "me": "lukekenney",
    "opp": "BD is back in town",
-   "my_total": 106.87,
-   "opp_total": 142.25,
+   "my_total": 106.79,
+   "opp_total": 142.52,
    "h2h": [
     {
      "slot": "QB",
@@ -537,7 +537,7 @@
      "mp": 12.73,
      "mi": "",
      "opp": "Chuba Hubbard CAR",
-     "op": 16.16,
+     "op": 16.43,
      "oi": ""
     },
     {
@@ -588,7 +588,7 @@
     {
      "slot": "K",
      "me": "Eddy Pineiro SF",
-     "mp": 9.04,
+     "mp": 8.96,
      "mi": "",
      "opp": "Jason Myers SEA",
      "op": 9.47,
@@ -740,16 +740,16 @@
    "week": 7,
    "me": "lukekenney",
    "opp": "JD Maxxed Team",
-   "my_total": 142.95,
-   "opp_total": 121.73,
+   "my_total": 142.9,
+   "opp_total": 121.54,
    "h2h": [
     {
      "slot": "QB",
      "me": "C.J. Stroud HOU",
-     "mp": 18.38,
+     "mp": 18.46,
      "mi": "",
      "opp": "Matthew Stafford LAR",
-     "op": 17.4,
+     "op": 17.33,
      "oi": ""
     },
     {
@@ -767,7 +767,7 @@
      "mp": 15.14,
      "mi": "",
      "opp": "Christian McCaffrey SF",
-     "op": 21.04,
+     "op": 20.92,
      "oi": ""
     },
     {
@@ -791,7 +791,7 @@
     {
      "slot": "TE",
      "me": "George Kittle SF",
-     "mp": 17.14,
+     "mp": 17.01,
      "mi": "",
      "opp": "Jake Ferguson DAL",
      "op": 7.84,
@@ -845,7 +845,7 @@
      "p": "TE",
      "t": "CLE",
      "i": "",
-     "pr": 10.99
+     "pr": 11.05
     },
     {
      "n": "Rome Odunze",
@@ -894,7 +894,7 @@
      "p": "WR",
      "t": "BAL",
      "i": "",
-     "pr": 4.64
+     "pr": 5.43
     },
     {
      "n": "Max Klare",
