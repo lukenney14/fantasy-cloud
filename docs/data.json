@@ -1,5 +1,5 @@
 {
- "built": "2026-10-27T10:41:31.843066+00:00",
+ "built": "2026-10-27T11:38:11.351934+00:00",
  "week": 8,
  "leagues": [
   {
@@ -511,7 +511,7 @@
    "me": "lukekenney",
    "opp": "Ryan I.",
    "my_total": 110.8,
-   "opp_total": 121.49,
+   "opp_total": 121.47,
    "h2h": [
     {
      "slot": "QB",
@@ -537,7 +537,7 @@
      "mp": 9.31,
      "mi": "Questionable",
      "opp": "J.K. Dobbins DEN",
-     "op": 5.62,
+     "op": 5.6,
      "oi": ""
     },
     {
@@ -738,7 +738,7 @@
    "week": 8,
    "me": "lukekenney",
    "opp": "KOBA",
-   "my_total": 107.9,
+   "my_total": 107.83,
    "opp_total": 98.16,
    "h2h": [
     {
@@ -753,7 +753,7 @@
     {
      "slot": "RB",
      "me": "Kenneth Walker III KC",
-     "mp": 20.91,
+     "mp": 20.84,
      "mi": "",
      "opp": "TreVeyon Henderson NE",
      "op": 7.39,
