@@ -1,5 +1,5 @@
 {
- "built": "2026-11-01T15:32:15.859616+00:00",
+ "built": "2026-11-01T16:36:27.971632+00:00",
  "week": 8,
  "leagues": [
   {
@@ -47,7 +47,7 @@
      "mi": "Active",
      "opp": "George Pickens",
      "op": 13.96,
-     "oi": "Questionable"
+     "oi": "Active"
     },
     {
      "slot": "WR",
@@ -506,8 +506,8 @@
    "week": 8,
    "me": "lukekenney",
    "opp": "Ryan I.",
-   "my_total": 134.57,
-   "opp_total": 142.44,
+   "my_total": 134.27,
+   "opp_total": 142.52,
    "h2h": [
     {
      "slot": "QB",
@@ -515,7 +515,7 @@
      "mp": 24.03,
      "mi": "",
      "opp": "Joe Burrow CIN",
-     "op": 23.37,
+     "op": 23.43,
      "oi": ""
     },
     {
@@ -557,7 +557,7 @@
     {
      "slot": "TE",
      "me": "Tyler Warren IND",
-     "mp": 11.08,
+     "mp": 10.78,
      "mi": "",
      "opp": "Tucker Kraft GB",
      "op": 10.86,
@@ -578,7 +578,7 @@
      "mp": 16.16,
      "mi": "",
      "opp": "Malik Washington MIA",
-     "op": 9.12,
+     "op": 9.14,
      "oi": ""
     },
     {
@@ -734,8 +734,8 @@
    "week": 8,
    "me": "lukekenney",
    "opp": "KOBA",
-   "my_total": 124.52,
-   "opp_total": 113.93,
+   "my_total": 124.4,
+   "opp_total": 113.63,
    "h2h": [
     {
      "slot": "QB",
@@ -758,7 +758,7 @@
     {
      "slot": "RB",
      "me": "Chase Brown CIN",
-     "mp": 18.09,
+     "mp": 17.97,
      "mi": "",
      "opp": "Rachaad White WAS",
      "op": 10.86,
@@ -797,7 +797,7 @@
      "mp": 13.73,
      "mi": "",
      "opp": "Josh Downs IND",
-     "op": 10.16,
+     "op": 9.86,
      "oi": ""
     },
     {
