@@ -1,5 +1,5 @@
 {
- "built": "2026-11-01T10:36:26.134531+00:00",
+ "built": "2026-11-01T11:38:59.528377+00:00",
  "week": 8,
  "leagues": [
   {
@@ -507,7 +507,7 @@
    "me": "lukekenney",
    "opp": "Ryan I.",
    "my_total": 127.99,
-   "opp_total": 141.46,
+   "opp_total": 142.47,
    "h2h": [
     {
      "slot": "QB",
@@ -596,7 +596,7 @@
      "mp": 8.05,
      "mi": "",
      "opp": "Tampa Bay Buccaneers TB",
-     "op": 6.61,
+     "op": 7.62,
      "oi": ""
     }
    ],
@@ -734,8 +734,8 @@
    "week": 8,
    "me": "lukekenney",
    "opp": "KOBA",
-   "my_total": 123.95,
-   "opp_total": 101.95,
+   "my_total": 124.01,
+   "opp_total": 101.96,
    "h2h": [
     {
      "slot": "QB",
@@ -761,7 +761,7 @@
      "mp": 17.85,
      "mi": "",
      "opp": "Rachaad White WAS",
-     "op": 10.85,
+     "op": 10.86,
      "oi": ""
     },
     {
@@ -812,7 +812,7 @@
     {
      "slot": "K",
      "me": "Chase McLaughlin TB",
-     "mp": 8.48,
+     "mp": 8.54,
      "mi": "",
      "opp": "Brandon Aubrey DAL",
      "op": 9.99,
@@ -825,14 +825,14 @@
      "p": "TE",
      "t": "PHI",
      "i": "",
-     "pr": 10.08
+     "pr": 10.04
     },
     {
      "n": "Makai Lemon",
      "p": "WR",
      "t": "PHI",
      "i": "",
-     "pr": 9.5
+     "pr": 9.47
     },
     {
      "n": "Rashod Bateman",
@@ -860,7 +860,7 @@
      "p": "RB",
      "t": "PHI",
      "i": "",
-     "pr": 1.7
+     "pr": 1.69
     },
     {
      "n": "Max Klare",
