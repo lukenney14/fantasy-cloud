@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T19:28:15.095282+00:00",
+ "built": "2026-11-08T20:23:24.882347+00:00",
  "week": 9,
  "leagues": [
   {
@@ -362,7 +362,7 @@
      "t": "CLE",
      "slot": "BN",
      "pr": 11.15,
-     "i": "Active"
+     "i": "Questionable"
     },
     {
      "n": "Hunter Henry",
@@ -370,7 +370,7 @@
      "t": "NE",
      "slot": "BN",
      "pr": 9.46,
-     "i": "Questionable"
+     "i": "Active"
     },
     {
      "n": "Elijah Mitchell",
@@ -519,7 +519,7 @@
    "me": "lukekenney",
    "opp": "Commisioner\u2019s Exempt List",
    "my_total": 126.51,
-   "opp_total": 149.53,
+   "opp_total": 150.67,
    "h2h": [
     {
      "slot": "QB",
@@ -545,7 +545,7 @@
      "mp": 9.81,
      "mi": "",
      "opp": "Josh Jacobs GB",
-     "op": 13.86,
+     "op": 14.94,
      "oi": ""
     },
     {
@@ -554,7 +554,7 @@
      "mp": 14.86,
      "mi": "",
      "opp": "Christian Watson GB",
-     "op": 15.84,
+     "op": 15.9,
      "oi": ""
     },
     {
@@ -746,8 +746,8 @@
    "week": 9,
    "me": "lukekenney",
    "opp": "The Reign of Ringo",
-   "my_total": 140.17,
-   "opp_total": 140.08,
+   "my_total": 140.23,
+   "opp_total": 141.17,
    "h2h": [
     {
      "slot": "QB",
@@ -764,7 +764,7 @@
      "mp": 21.74,
      "mi": "",
      "opp": "Josh Jacobs GB",
-     "op": 13.95,
+     "op": 15.04,
      "oi": ""
     },
     {
@@ -779,7 +779,7 @@
     {
      "slot": "WR",
      "me": "Christian Watson GB",
-     "mp": 15.86,
+     "mp": 15.92,
      "mi": "",
      "opp": "CeeDee Lamb DAL",
      "op": 21.44,
@@ -837,7 +837,7 @@
      "p": "QB",
      "t": "HOU",
      "i": "",
-     "pr": 16.77
+     "pr": 16.81
     },
     {
      "n": "Jameson Williams",
