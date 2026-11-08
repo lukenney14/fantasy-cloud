@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T17:00:57.507178+00:00",
+ "built": "2026-11-08T19:28:15.095282+00:00",
  "week": 9,
  "leagues": [
   {
@@ -10,8 +10,8 @@
    "week": 9,
    "me": "Team Bonah",
    "opp": "The CeeDeeCee",
-   "my_total": 148.41,
-   "opp_total": 135.6,
+   "my_total": 148.4,
+   "opp_total": 135.5,
    "h2h": [
     {
      "slot": "QB",
@@ -88,10 +88,10 @@
     {
      "slot": "D/ST",
      "me": "Giants D/ST",
-     "mp": 7.5,
+     "mp": 7.49,
      "mi": "",
      "opp": "Broncos D/ST",
-     "op": 6.61,
+     "op": 6.51,
      "oi": ""
     }
    ],
@@ -345,7 +345,7 @@
      "p": "QB",
      "t": "CAR",
      "slot": "BN",
-     "pr": 15.76,
+     "pr": 15.78,
      "i": "Active"
     },
     {
@@ -518,8 +518,8 @@
    "week": 9,
    "me": "lukekenney",
    "opp": "Commisioner\u2019s Exempt List",
-   "my_total": 126.91,
-   "opp_total": 149.34,
+   "my_total": 126.51,
+   "opp_total": 149.53,
    "h2h": [
     {
      "slot": "QB",
@@ -563,7 +563,7 @@
      "mp": 17.56,
      "mi": "",
      "opp": "Chris Olave NO",
-     "op": 15.32,
+     "op": 15.43,
      "oi": ""
     },
     {
@@ -587,10 +587,10 @@
     {
      "slot": "FLEX",
      "me": "Braelon Allen NYJ",
-     "mp": 10.63,
+     "mp": 10.23,
      "mi": "",
      "opp": "Stefon Diggs WAS",
-     "op": 12.75,
+     "op": 12.83,
      "oi": ""
     },
     {
@@ -618,7 +618,7 @@
      "p": "TE",
      "t": "LAR",
      "i": "",
-     "pr": 8.34
+     "pr": 8.35
     },
     {
      "n": "Kenny Gainwell",
@@ -746,7 +746,7 @@
    "week": 9,
    "me": "lukekenney",
    "opp": "The Reign of Ringo",
-   "my_total": 140.05,
+   "my_total": 140.17,
    "opp_total": 140.08,
    "h2h": [
     {
@@ -788,7 +788,7 @@
     {
      "slot": "WR",
      "me": "Chris Olave NO",
-     "mp": 15.35,
+     "mp": 15.47,
      "mi": "",
      "opp": "Ladd McConkey LAC",
      "op": 13.02,
@@ -865,7 +865,7 @@
      "p": "TE",
      "t": "CLE",
      "i": "",
-     "pr": 11.37
+     "pr": 11.39
     },
     {
      "n": "Dallas Goedert",
@@ -875,18 +875,18 @@
      "pr": 9.74
     },
     {
+     "n": "Devaughn Vele",
+     "p": "WR",
+     "t": "NO",
+     "i": "",
+     "pr": 8.59
+    },
+    {
      "n": "Makai Lemon",
      "p": "WR",
      "t": "PHI",
      "i": "",
      "pr": 7.91
-    },
-    {
-     "n": "Devaughn Vele",
-     "p": "WR",
-     "t": "NO",
-     "i": "",
-     "pr": 7.08
     },
     {
      "n": "Rashod Bateman",
