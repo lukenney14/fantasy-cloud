@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T16:35:50.637824+00:00",
+ "built": "2026-11-08T17:00:57.507178+00:00",
  "week": 9,
  "leagues": [
   {
@@ -10,7 +10,7 @@
    "week": 9,
    "me": "Team Bonah",
    "opp": "The CeeDeeCee",
-   "my_total": 147.79,
+   "my_total": 148.41,
    "opp_total": 135.6,
    "h2h": [
     {
@@ -52,7 +52,7 @@
     {
      "slot": "WR",
      "me": "CeeDee Lamb",
-     "mp": 20.59,
+     "mp": 21.21,
      "mi": "Active",
      "opp": "Zay Flowers",
      "op": 13.28,
@@ -349,6 +349,14 @@
      "i": "Active"
     },
     {
+     "n": "Ryan Flournoy",
+     "p": "WR",
+     "t": "DAL",
+     "slot": "BN",
+     "pr": 12.38,
+     "i": "Active"
+    },
+    {
      "n": "KC Concepcion",
      "p": "WR",
      "t": "CLE",
@@ -363,14 +371,6 @@
      "slot": "BN",
      "pr": 9.46,
      "i": "Questionable"
-    },
-    {
-     "n": "Ryan Flournoy",
-     "p": "WR",
-     "t": "DAL",
-     "slot": "BN",
-     "pr": 9.26,
-     "i": "Active"
     },
     {
      "n": "Elijah Mitchell",
@@ -518,13 +518,13 @@
    "week": 9,
    "me": "lukekenney",
    "opp": "Commisioner\u2019s Exempt List",
-   "my_total": 126.96,
-   "opp_total": 149.26,
+   "my_total": 126.91,
+   "opp_total": 149.34,
    "h2h": [
     {
      "slot": "QB",
      "me": "Dak Prescott DAL",
-     "mp": 20.62,
+     "mp": 20.57,
      "mi": "",
      "opp": "Patrick Mahomes KC",
      "op": 22.74,
@@ -590,7 +590,7 @@
      "mp": 10.63,
      "mi": "",
      "opp": "Stefon Diggs WAS",
-     "op": 12.67,
+     "op": 12.75,
      "oi": ""
     },
     {
@@ -618,7 +618,7 @@
      "p": "TE",
      "t": "LAR",
      "i": "",
-     "pr": 8.32
+     "pr": 8.34
     },
     {
      "n": "Kenny Gainwell",
@@ -631,7 +631,7 @@
      "n": "Cam Skattebo",
      "p": "RB",
      "t": "NYG",
-     "i": "Doubtful",
+     "i": "Out",
      "pr": 0.0
     },
     {
@@ -746,8 +746,8 @@
    "week": 9,
    "me": "lukekenney",
    "opp": "The Reign of Ringo",
-   "my_total": 140.11,
-   "opp_total": 138.92,
+   "my_total": 140.05,
+   "opp_total": 140.08,
    "h2h": [
     {
      "slot": "QB",
@@ -755,7 +755,7 @@
      "mp": 17.05,
      "mi": "",
      "opp": "Dak Prescott DAL",
-     "op": 19.71,
+     "op": 19.67,
      "oi": ""
     },
     {
@@ -782,7 +782,7 @@
      "mp": 15.86,
      "mi": "",
      "opp": "CeeDee Lamb DAL",
-     "op": 20.24,
+     "op": 21.44,
      "oi": ""
     },
     {
@@ -815,7 +815,7 @@
     {
      "slot": "FLEX",
      "me": "Malik Nabers NYG",
-     "mp": 15.57,
+     "mp": 15.51,
      "mi": "",
      "opp": "Xavier Worthy KC",
      "op": 10.25,
