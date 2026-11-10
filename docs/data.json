@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T17:45:06.348715+00:00",
+ "built": "2026-11-10T18:37:46.445585+00:00",
  "week": 10,
  "leagues": [
   {
@@ -518,8 +518,8 @@
    "week": 10,
    "me": "lukekenney",
    "opp": "Drakemayelover",
-   "my_total": 120.29,
-   "opp_total": 138.75,
+   "my_total": 120.27,
+   "opp_total": 138.59,
    "h2h": [
     {
      "slot": "QB",
@@ -527,7 +527,7 @@
      "mp": 19.65,
      "mi": "",
      "opp": "Drake Maye NE",
-     "op": 24.21,
+     "op": 24.05,
      "oi": ""
     },
     {
@@ -587,7 +587,7 @@
     {
      "slot": "FLEX",
      "me": "Braelon Allen NYJ",
-     "mp": 10.72,
+     "mp": 10.7,
      "mi": "",
      "opp": "Tony Pollard TEN",
      "op": 11.99,
@@ -746,8 +746,8 @@
    "week": 10,
    "me": "lukekenney",
    "opp": "Giggs3",
-   "my_total": 129.89,
-   "opp_total": 130.8,
+   "my_total": 129.8,
+   "opp_total": 130.81,
    "h2h": [
     {
      "slot": "QB",
@@ -782,7 +782,7 @@
      "mp": 15.77,
      "mi": "",
      "opp": "Amon-Ra St. Brown DET",
-     "op": 19.46,
+     "op": 19.5,
      "oi": ""
     },
     {
@@ -791,7 +791,7 @@
      "mp": 16.2,
      "mi": "",
      "opp": "DJ Moore BUF",
-     "op": 13.07,
+     "op": 13.19,
      "oi": ""
     },
     {
@@ -809,16 +809,16 @@
      "mp": 14.49,
      "mi": "",
      "opp": "Stefon Diggs WAS",
-     "op": 11.33,
+     "op": 11.25,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Malik Nabers NYG",
-     "mp": 16.88,
+     "mp": 16.79,
      "mi": "",
      "opp": "A.J. Brown NE",
-     "op": 13.84,
+     "op": 13.77,
      "oi": "Out"
     },
     {
@@ -844,7 +844,7 @@
      "p": "WR",
      "t": "DET",
      "i": "",
-     "pr": 12.49
+     "pr": 12.48
     },
     {
      "n": "Cam Skattebo",
