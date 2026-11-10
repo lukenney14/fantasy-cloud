@@ -1,97 +1,97 @@
 {
- "built": "2026-11-08T20:23:24.882347+00:00",
- "week": 9,
+ "built": "2026-11-10T17:45:06.348715+00:00",
+ "week": 10,
  "leagues": [
   {
    "key": "wl",
    "name": "W League",
    "platform": "ESPN",
    "dynasty": false,
-   "week": 9,
+   "week": 10,
    "me": "Team Bonah",
-   "opp": "The CeeDeeCee",
-   "my_total": 148.4,
-   "opp_total": 135.5,
+   "opp": "Gibbs me that W",
+   "my_total": 125.3,
+   "opp_total": 121.72,
    "h2h": [
     {
      "slot": "QB",
      "me": "Brock Purdy",
-     "mp": 22.19,
+     "mp": 20.73,
      "mi": "Active",
-     "opp": "Jayden Daniels",
-     "op": 19.79,
+     "opp": "Jared Goff",
+     "op": 17.31,
      "oi": "Active"
     },
     {
      "slot": "RB",
      "me": "Kyren Williams",
-     "mp": 16.99,
+     "mp": 18.67,
      "mi": "Active",
-     "opp": "Ashton Jeanty",
-     "op": 14.83,
+     "opp": "Jonathan Taylor",
+     "op": 17.87,
      "oi": "Active"
     },
     {
      "slot": "RB",
      "me": "Quinshon Judkins",
-     "mp": 14.14,
+     "mp": 11.79,
      "mi": "Active",
-     "opp": "D'Andre Swift",
-     "op": 18.61,
-     "oi": "Active"
-    },
-    {
-     "slot": "WR",
-     "me": "Puka Nacua",
-     "mp": 24.23,
-     "mi": "Active",
-     "opp": "Jaxon Smith-Njigba",
-     "op": 22.46,
+     "opp": "Jadarian Price",
+     "op": 11.81,
      "oi": "Active"
     },
     {
      "slot": "WR",
      "me": "CeeDee Lamb",
-     "mp": 21.21,
+     "mp": 20.86,
      "mi": "Active",
-     "opp": "Zay Flowers",
-     "op": 13.28,
+     "opp": "Drake London",
+     "op": 14.8,
+     "oi": "Active"
+    },
+    {
+     "slot": "WR",
+     "me": "Malik Washington",
+     "mp": 9.01,
+     "mi": "Active",
+     "opp": "Tetairoa McMillan",
+     "op": 16.06,
      "oi": "Active"
     },
     {
      "slot": "TE",
      "me": "Brock Bowers",
-     "mp": 18.2,
+     "mp": 16.76,
      "mi": "Active",
-     "opp": "Harold Fannin Jr.",
-     "op": 11.52,
+     "opp": "Trey McBride",
+     "op": 14.08,
      "oi": "Active"
     },
     {
      "slot": "FLEX",
-     "me": "T.J. Hockenson",
-     "mp": 10.69,
-     "mi": "Active",
-     "opp": "Chase Brown",
-     "op": 16.56,
+     "me": "Deebo Samuel Sr.",
+     "mp": 12.29,
+     "mi": "Questionable",
+     "opp": "Jameson Williams",
+     "op": 12.09,
      "oi": "Active"
     },
     {
      "slot": "FLEX",
-     "me": "Devin Singletary",
-     "mp": 13.26,
+     "me": "Rico Dowdle",
+     "mp": 9.78,
      "mi": "Active",
-     "opp": "Rachaad White",
-     "op": 11.94,
+     "opp": "Jakobi Meyers",
+     "op": 11.62,
      "oi": "Active"
     },
     {
      "slot": "D/ST",
      "me": "Giants D/ST",
-     "mp": 7.49,
+     "mp": 5.41,
      "mi": "",
-     "opp": "Broncos D/ST",
-     "op": 6.51,
+     "opp": "Bills D/ST",
+     "op": 6.08,
      "oi": ""
     }
    ],
@@ -101,7 +101,15 @@
      "p": "QB",
      "t": "DAL",
      "slot": "BN",
-     "pr": 19.1,
+     "pr": 16.55,
+     "i": "Active"
+    },
+    {
+     "n": "T.J. Hockenson",
+     "p": "TE",
+     "t": "MIN",
+     "slot": "BN",
+     "pr": 9.89,
      "i": "Active"
     },
     {
@@ -109,15 +117,15 @@
      "p": "TE",
      "t": "ATL",
      "slot": "BN",
-     "pr": 10.14,
+     "pr": 9.15,
      "i": "Active"
     },
     {
-     "n": "Malik Washington",
-     "p": "WR",
-     "t": "MIA",
+     "n": "Devin Singletary",
+     "p": "RB",
+     "t": "NYG",
      "slot": "BN",
-     "pr": 9.87,
+     "pr": 7.45,
      "i": "Active"
     },
     {
@@ -125,8 +133,16 @@
      "p": "RB",
      "t": "MIN",
      "slot": "BN",
-     "pr": 8.36,
+     "pr": 6.79,
      "i": "Active"
+    },
+    {
+     "n": "Puka Nacua",
+     "p": "WR",
+     "t": "LAR",
+     "slot": "BN",
+     "pr": 0.0,
+     "i": "Doubtful"
     },
     {
      "n": "Terry McLaurin",
@@ -142,15 +158,7 @@
      "t": "SF",
      "slot": "BN",
      "pr": 0.0,
-     "i": "Out"
-    },
-    {
-     "n": "Deebo Samuel Sr.",
-     "p": "WR",
-     "t": "SF",
-     "slot": "BN",
-     "pr": 0.0,
-     "i": "Out"
+     "i": "Questionable"
     },
     {
      "n": "Tyreek Hill",
@@ -159,88 +167,80 @@
      "slot": "BN",
      "pr": 0.0,
      "i": "Questionable"
-    },
-    {
-     "n": "Rico Dowdle",
-     "p": "RB",
-     "t": "PIT",
-     "slot": "BN",
-     "pr": 0.0,
-     "i": "Active"
     }
    ],
    "free": [
-    "Dak Prescott (19.1) over T.J. Hockenson (10.7) at FLEX"
+    "Dak Prescott (16.6) over Deebo Samuel Sr. (12.3) at FLEX"
    ],
    "standings": [
     {
-     "team": "The CeeDeeCee",
-     "w": 8,
-     "l": 0,
-     "pf": 1089.52,
-     "me": false
+     "team": "Team Bonah",
+     "w": 6,
+     "l": 3,
+     "pf": 1196.08,
+     "me": true
     },
     {
      "team": "Gibbs me that W",
      "w": 5,
-     "l": 3,
-     "pf": 1074.84,
+     "l": 4,
+     "pf": 1171.64,
      "me": false
     },
     {
-     "team": "Team Bonah",
-     "w": 5,
-     "l": 3,
-     "pf": 1038.2,
-     "me": true
-    },
-    {
-     "team": "Is that Braxton?",
-     "w": 3,
-     "l": 5,
-     "pf": 1019.24,
+     "team": "The CeeDeeCee",
+     "w": 8,
+     "l": 1,
+     "pf": 1167.18,
      "me": false
     },
     {
      "team": "LaPorta Potties",
-     "w": 6,
+     "w": 7,
      "l": 2,
-     "pf": 1003.44,
+     "pf": 1150.5,
+     "me": false
+    },
+    {
+     "team": "Is that Braxton?",
+     "w": 4,
+     "l": 5,
+     "pf": 1140.2,
+     "me": false
+    },
+    {
+     "team": "Team Isaiah",
+     "w": 4,
+     "l": 5,
+     "pf": 1104.32,
      "me": false
     },
     {
      "team": "Pickens Cotton",
      "w": 3,
-     "l": 5,
-     "pf": 977.42,
-     "me": false
-    },
-    {
-     "team": "Team Isaiah",
-     "w": 3,
-     "l": 5,
-     "pf": 959.48,
+     "l": 6,
+     "pf": 1067.5,
      "me": false
     },
     {
      "team": "O-H",
-     "w": 3,
+     "w": 4,
      "l": 5,
-     "pf": 919.08,
+     "pf": 1024.2,
      "me": false
     },
     {
      "team": "W Banter, L Neck",
      "w": 3,
-     "l": 5,
-     "pf": 872.92,
+     "l": 6,
+     "pf": 991.24,
      "me": false
     },
     {
      "team": "LARO1",
      "w": 1,
-     "l": 7,
-     "pf": 857.64,
+     "l": 8,
+     "pf": 962.8,
      "me": false
     }
    ],
@@ -251,91 +251,91 @@
    "name": "Beta Fantasy 2026",
    "platform": "ESPN",
    "dynasty": false,
-   "week": 9,
+   "week": 10,
    "me": "Yurang Diesel",
-   "opp": "FLAMING DRAGON",
-   "my_total": 133.17,
-   "opp_total": 128.18,
+   "opp": "Booty Town Ass Muncher",
+   "my_total": 127.51,
+   "opp_total": 113.42,
    "h2h": [
     {
      "slot": "QB",
      "me": "Brock Purdy",
-     "mp": 22.19,
+     "mp": 20.73,
      "mi": "Active",
-     "opp": "Jordan Love",
-     "op": 17.02,
+     "opp": "C.J. Stroud",
+     "op": 18.28,
      "oi": "Active"
     },
     {
      "slot": "RB",
      "me": "Kyren Williams",
-     "mp": 16.99,
+     "mp": 18.67,
      "mi": "Active",
-     "opp": "D'Andre Swift",
-     "op": 18.61,
+     "opp": "Derrick Henry",
+     "op": 18.18,
      "oi": "Active"
     },
     {
      "slot": "RB",
      "me": "Bhayshul Tuten",
-     "mp": 15.3,
+     "mp": 17.26,
      "mi": "Active",
-     "opp": "Devin Singletary",
-     "op": 13.26,
+     "opp": "Blake Corum",
+     "op": 11.59,
      "oi": "Active"
     },
     {
      "slot": "WR",
      "me": "Ja'Marr Chase",
-     "mp": 22.88,
+     "mp": 22.92,
      "mi": "Active",
-     "opp": "Jaxon Smith-Njigba",
-     "op": 22.46,
+     "opp": "Justin Jefferson",
+     "op": 15.13,
      "oi": "Active"
     },
     {
      "slot": "WR",
      "me": "Nico Collins",
-     "mp": 13.85,
+     "mp": 13.17,
      "mi": "Active",
-     "opp": "Chris Olave",
-     "op": 14.03,
+     "opp": "Keenan Allen",
+     "op": 10.12,
      "oi": "Active"
     },
     {
      "slot": "TE",
      "me": "Harold Fannin Jr.",
-     "mp": 11.52,
+     "mp": 10.08,
      "mi": "Active",
-     "opp": "Kyle Pitts Sr.",
-     "op": 10.14,
+     "opp": "T.J. Hockenson",
+     "op": 9.89,
      "oi": "Active"
     },
     {
      "slot": "FLEX",
-     "me": "Alvin Kamara",
-     "mp": 12.3,
+     "me": "KC Concepcion",
+     "mp": 10.61,
      "mi": "Active",
-     "opp": "Jameson Williams",
-     "op": 14.01,
+     "opp": "George Kittle",
+     "op": 15.9,
      "oi": "Active"
     },
     {
      "slot": "D/ST",
      "me": "Jaguars D/ST",
-     "mp": 8.6,
+     "mp": 6.26,
      "mi": "",
-     "opp": "Texans D/ST",
-     "op": 7.75,
+     "opp": "Patriots D/ST",
+     "op": 3.5,
      "oi": ""
     },
     {
      "slot": "K",
      "me": "Chad Ryland",
-     "mp": 9.54,
+     "mp": 7.81,
      "mi": "Active",
-     "opp": "Spencer Shrader",
-     "op": 10.9,
+     "opp": "Dominic Zvada",
+     "op": 10.83,
      "oi": "Active"
     }
    ],
@@ -345,7 +345,23 @@
      "p": "QB",
      "t": "CAR",
      "slot": "BN",
-     "pr": 15.78,
+     "pr": 18.8,
+     "i": "Active"
+    },
+    {
+     "n": "Alvin Kamara",
+     "p": "RB",
+     "t": "NO",
+     "slot": "BN",
+     "pr": 10.25,
+     "i": "Active"
+    },
+    {
+     "n": "Hunter Henry",
+     "p": "TE",
+     "t": "NE",
+     "slot": "BN",
+     "pr": 9.33,
      "i": "Active"
     },
     {
@@ -353,31 +369,7 @@
      "p": "WR",
      "t": "DAL",
      "slot": "BN",
-     "pr": 12.38,
-     "i": "Active"
-    },
-    {
-     "n": "KC Concepcion",
-     "p": "WR",
-     "t": "CLE",
-     "slot": "BN",
-     "pr": 11.15,
-     "i": "Questionable"
-    },
-    {
-     "n": "Hunter Henry",
-     "p": "TE",
-     "t": "NE",
-     "slot": "BN",
-     "pr": 9.46,
-     "i": "Active"
-    },
-    {
-     "n": "Elijah Mitchell",
-     "p": "RB",
-     "t": "PHI",
-     "slot": "BN",
-     "pr": 8.75,
+     "pr": 8.39,
      "i": "Active"
     },
     {
@@ -385,7 +377,7 @@
      "p": "RB",
      "t": "GB",
      "slot": "BN",
-     "pr": 0.34,
+     "pr": 5.68,
      "i": "Active"
     },
     {
@@ -403,108 +395,116 @@
      "slot": "BN",
      "pr": 0.0,
      "i": "Active"
+    },
+    {
+     "n": "Elijah Mitchell",
+     "p": "RB",
+     "t": "PHI",
+     "slot": "BN",
+     "pr": 0.0,
+     "i": "Active"
     }
    ],
    "free": [
-    "Bryce Young (15.8) over Alvin Kamara (12.3) at FLEX"
+    "Bryce Young (18.8) over KC Concepcion (10.6) at FLEX"
    ],
    "standings": [
     {
      "team": "GARGLON DEEZNUTZ",
-     "w": 7,
+     "w": 8,
      "l": 1,
-     "pf": 1038.14,
-     "me": false
-    },
-    {
-     "team": "Love Rammin Mahomeys",
-     "w": 6,
-     "l": 2,
-     "pf": 978.54,
+     "pf": 1199.6,
      "me": false
     },
     {
      "team": "RF's",
-     "w": 5,
+     "w": 6,
      "l": 3,
-     "pf": 977.96,
+     "pf": 1106.72,
      "me": false
     },
     {
      "team": "FLAMING DRAGON",
      "w": 7,
-     "l": 1,
-     "pf": 967.38,
+     "l": 2,
+     "pf": 1079.76,
      "me": false
     },
     {
-     "team": "Blue Balls",
-     "w": 5,
-     "l": 3,
-     "pf": 943.24,
+     "team": "Love Rammin Mahomeys",
+     "w": 7,
+     "l": 2,
+     "pf": 1067.64,
      "me": false
     },
     {
      "team": "Giggs",
      "w": 4,
-     "l": 4,
-     "pf": 937.18,
+     "l": 5,
+     "pf": 1063.42,
      "me": false
     },
     {
      "team": "Yurang Diesel",
-     "w": 5,
+     "w": 6,
      "l": 3,
-     "pf": 933.76,
+     "pf": 1059.14,
      "me": true
     },
     {
-     "team": "Peanut Butta Windex",
-     "w": 3,
-     "l": 5,
-     "pf": 892.84,
+     "team": "Blue Balls",
+     "w": 5,
+     "l": 4,
+     "pf": 1031.1,
      "me": false
     },
     {
      "team": "Mystery Inc",
-     "w": 4,
+     "w": 5,
      "l": 4,
-     "pf": 878.3,
+     "pf": 987.38,
+     "me": false
+    },
+    {
+     "team": "Peanut Butta Windex",
+     "w": 3,
+     "l": 6,
+     "pf": 980.84,
      "me": false
     },
     {
      "team": "Misfit Players",
-     "w": 4,
+     "w": 5,
      "l": 4,
-     "pf": 853.44,
+     "pf": 969.76,
      "me": false
     },
     {
      "team": "Free Meat Mahomes",
      "w": 1,
-     "l": 7,
-     "pf": 807.72,
+     "l": 8,
+     "pf": 914.14,
      "me": false
     },
     {
      "team": "Booty Town Ass Muncher",
      "w": 3,
-     "l": 5,
-     "pf": 796.02,
+     "l": 6,
+     "pf": 893.26,
      "me": false
     },
     {
      "team": "Tanking for Smith",
      "w": 1,
-     "l": 7,
-     "pf": 662.62,
+     "l": 8,
+     "pf": 746.58,
      "me": false
     },
     {
      "team": "Achane To My Dingalang",
-     "w": 1,
+     "w": 2,
      "l": 7,
-     "pf": 651.32,
+     "pf": 737.98,
      "me": false
     }
    ],
@@ -515,123 +515,109 @@
    "name": "Wellington SZN5",
    "platform": "Sleeper",
    "dynasty": false,
-   "week": 9,
+   "week": 10,
    "me": "lukekenney",
-   "opp": "Commisioner\u2019s Exempt List",
-   "my_total": 126.51,
-   "opp_total": 150.67,
+   "opp": "Drakemayelover",
+   "my_total": 120.29,
+   "opp_total": 138.75,
    "h2h": [
     {
      "slot": "QB",
      "me": "Dak Prescott DAL",
-     "mp": 20.57,
+     "mp": 19.65,
      "mi": "",
-     "opp": "Patrick Mahomes KC",
-     "op": 22.74,
+     "opp": "Drake Maye NE",
+     "op": 24.21,
      "oi": ""
     },
     {
      "slot": "RB",
-     "me": "Rhamondre Stevenson NE",
-     "mp": 13.81,
-     "mi": "",
-     "opp": "Bijan Robinson ATL",
-     "op": 23.47,
+     "me": "Cam Skattebo NYG",
+     "mp": 11.93,
+     "mi": "Out",
+     "opp": "Kyren Williams LAR",
+     "op": 17.1,
      "oi": ""
     },
     {
      "slot": "RB",
      "me": "Aaron Jones Sr. MIN",
-     "mp": 9.81,
+     "mp": 9.82,
      "mi": "",
-     "opp": "Josh Jacobs GB",
-     "op": 14.94,
+     "opp": "Javonte Williams DAL",
+     "op": 17.67,
      "oi": ""
     },
     {
      "slot": "WR",
      "me": "Matthew Golden GB",
-     "mp": 14.86,
+     "mp": 14.46,
      "mi": "",
-     "opp": "Christian Watson GB",
-     "op": 15.9,
+     "opp": "Ja'Marr Chase CIN",
+     "op": 19.68,
      "oi": ""
     },
     {
      "slot": "WR",
      "me": "Justin Jefferson MIN",
-     "mp": 17.56,
+     "mp": 16.29,
      "mi": "",
-     "opp": "Chris Olave NO",
-     "op": 15.43,
+     "opp": "Keenan Allen IND",
+     "op": 10.3,
      "oi": ""
     },
     {
      "slot": "TE",
      "me": "Tyler Warren IND",
-     "mp": 13.28,
+     "mp": 12.3,
      "mi": "",
-     "opp": "Isaiah Likely NYG",
-     "op": 11.1,
+     "opp": "Mike Gesicki CIN",
+     "op": 10.25,
      "oi": ""
     },
     {
      "slot": "FLEX",
-     "me": "Darius Cooper PHI",
-     "mp": 8.59,
+     "me": "Tyler Higbee LAR",
+     "mp": 8.61,
      "mi": "",
-     "opp": "Nico Collins HOU",
-     "op": 17.22,
+     "opp": "Germie Bernard PIT",
+     "op": 10.2,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Braelon Allen NYJ",
-     "mp": 10.23,
+     "mp": 10.72,
      "mi": "",
-     "opp": "Stefon Diggs WAS",
-     "op": 12.83,
+     "opp": "Tony Pollard TEN",
+     "op": 11.99,
      "oi": ""
     },
     {
      "slot": "K",
      "me": "Cam Little JAX",
-     "mp": 9.32,
+     "mp": 9.95,
      "mi": "",
-     "opp": "Spencer Shrader IND",
-     "op": 10.75,
+     "opp": "Ka'imi Fairbairn HOU",
+     "op": 9.1,
      "oi": ""
     },
     {
      "slot": "DEF",
      "me": "Kansas City Chiefs KC",
-     "mp": 8.48,
+     "mp": 6.56,
      "mi": "",
-     "opp": "Minnesota Vikings MIN",
-     "op": 6.29,
+     "opp": "Green Bay Packers GB",
+     "op": 8.25,
      "oi": ""
     }
    ],
    "bench": [
     {
-     "n": "Tyler Higbee",
-     "p": "TE",
-     "t": "LAR",
+     "n": "Darius Cooper",
+     "p": "WR",
+     "t": "PHI",
      "i": "",
-     "pr": 8.35
-    },
-    {
-     "n": "Kenny Gainwell",
-     "p": "RB",
-     "t": "TB",
-     "i": "",
-     "pr": 7.14
-    },
-    {
-     "n": "Cam Skattebo",
-     "p": "RB",
-     "t": "NYG",
-     "i": "Out",
      "pr": 0.0
     },
     {
@@ -647,92 +633,106 @@
      "t": "PIT",
      "i": "IR",
      "pr": 0.0
+    },
+    {
+     "n": "Kenny Gainwell",
+     "p": "RB",
+     "t": "TB",
+     "i": "",
+     "pr": 0.0
+    },
+    {
+     "n": "Rhamondre Stevenson",
+     "p": "RB",
+     "t": "NE",
+     "i": "Out",
+     "pr": 0.0
     }
    ],
    "free": [],
    "standings": [
     {
      "team": "Drakemayelover",
-     "w": 5,
+     "w": 6,
      "l": 3,
-     "pf": 1149.12,
+     "pf": 1293.0,
      "me": false
     },
     {
      "team": "dylanbresnahan",
      "w": 4,
+     "l": 5,
+     "pf": 1248.94,
+     "me": false
+    },
+    {
+     "team": "Smokin\u2019 Flowers",
+     "w": 6,
+     "l": 3,
+     "pf": 1247.96,
+     "me": false
+    },
+    {
+     "team": "Commisioner\u2019s Exempt List",
+     "w": 5,
      "l": 4,
-     "pf": 1116.58,
+     "pf": 1239.62,
+     "me": false
+    },
+    {
+     "team": "Cspence1231",
+     "w": 6,
+     "l": 3,
+     "pf": 1222.4,
      "me": false
     },
     {
      "team": "Ryan I.",
      "w": 5,
-     "l": 3,
-     "pf": 1114.44,
-     "me": false
-    },
-    {
-     "team": "BD is back in town",
-     "w": 5,
-     "l": 3,
-     "pf": 1091.94,
-     "me": false
-    },
-    {
-     "team": "Cspence1231",
-     "w": 5,
-     "l": 3,
-     "pf": 1085.64,
-     "me": false
-    },
-    {
-     "team": "Smokin\u2019 Flowers",
-     "w": 5,
-     "l": 3,
-     "pf": 1085.08,
-     "me": false
-    },
-    {
-     "team": "Commisioner\u2019s Exempt List",
-     "w": 4,
      "l": 4,
-     "pf": 1084.54,
+     "pf": 1206.46,
      "me": false
     },
     {
      "team": "Lisan Al Gibbs",
      "w": 3,
-     "l": 5,
-     "pf": 1065.66,
+     "l": 6,
+     "pf": 1197.72,
+     "me": false
+    },
+    {
+     "team": "BD is back in town",
+     "w": 5,
+     "l": 4,
+     "pf": 1195.02,
+     "me": false
+    },
+    {
+     "team": "Didnt want any of yall",
+     "w": 5,
+     "l": 4,
+     "pf": 1091.26,
      "me": false
     },
     {
      "team": "Team Diapetes",
      "w": 3,
-     "l": 5,
-     "pf": 973.02,
-     "me": false
-    },
-    {
-     "team": "Didnt want any of yall",
-     "w": 4,
-     "l": 4,
-     "pf": 954.84,
+     "l": 6,
+     "pf": 1085.46,
      "me": false
     },
     {
      "team": "lukekenney",
      "w": 2,
-     "l": 6,
-     "pf": 919.04,
+     "l": 7,
+     "pf": 1052.04,
      "me": true
     },
     {
      "team": "Barkley\u2019s Reedemption",
-     "w": 3,
+     "w": 4,
      "l": 5,
-     "pf": 766.24,
+     "pf": 858.54,
      "me": false
     }
    ],
@@ -743,178 +743,157 @@
    "name": "Muppets",
    "platform": "Sleeper",
    "dynasty": true,
-   "week": 9,
+   "week": 10,
    "me": "lukekenney",
-   "opp": "The Reign of Ringo",
-   "my_total": 140.23,
-   "opp_total": 141.17,
+   "opp": "Giggs3",
+   "my_total": 129.89,
+   "opp_total": 130.8,
    "h2h": [
     {
      "slot": "QB",
-     "me": "Kirk Cousins LV",
-     "mp": 17.05,
+     "me": "C.J. Stroud HOU",
+     "mp": 16.28,
      "mi": "",
-     "opp": "Dak Prescott DAL",
-     "op": 19.67,
+     "opp": "Trevor Lawrence JAX",
+     "op": 21.71,
      "oi": ""
     },
     {
      "slot": "RB",
      "me": "Kenneth Walker III KC",
-     "mp": 21.74,
+     "mp": 21.08,
      "mi": "",
-     "opp": "Josh Jacobs GB",
-     "op": 15.04,
+     "opp": "Derrick Henry BAL",
+     "op": 15.59,
      "oi": ""
     },
     {
      "slot": "RB",
      "me": "Chase Brown CIN",
-     "mp": 16.01,
+     "mp": 13.0,
      "mi": "",
-     "opp": "Javonte Williams DAL",
-     "op": 18.21,
+     "opp": "Bhayshul Tuten JAX",
+     "op": 16.34,
      "oi": ""
     },
     {
      "slot": "WR",
      "me": "Christian Watson GB",
-     "mp": 15.92,
+     "mp": 15.77,
      "mi": "",
-     "opp": "CeeDee Lamb DAL",
-     "op": 21.44,
+     "opp": "Amon-Ra St. Brown DET",
+     "op": 19.46,
      "oi": ""
     },
     {
      "slot": "WR",
      "me": "Chris Olave NO",
-     "mp": 15.47,
+     "mp": 16.2,
      "mi": "",
-     "opp": "Ladd McConkey LAC",
-     "op": 13.02,
+     "opp": "DJ Moore BUF",
+     "op": 13.07,
      "oi": ""
     },
     {
      "slot": "TE",
      "me": "George Kittle SF",
-     "mp": 15.68,
+     "mp": 16.19,
      "mi": "",
-     "opp": "Trey McBride ARI",
-     "op": 15.39,
+     "opp": "Tucker Kraft GB",
+     "op": 10.42,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Matthew Golden GB",
-     "mp": 14.89,
+     "mp": 14.49,
      "mi": "",
-     "opp": "D'Andre Swift CHI",
-     "op": 18.99,
+     "opp": "Stefon Diggs WAS",
+     "op": 11.33,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Malik Nabers NYG",
-     "mp": 15.51,
+     "mp": 16.88,
      "mi": "",
-     "opp": "Xavier Worthy KC",
-     "op": 10.25,
-     "oi": ""
+     "opp": "A.J. Brown NE",
+     "op": 13.84,
+     "oi": "Out"
     },
     {
      "slot": "K",
      "me": "Chase McLaughlin TB",
-     "mp": 7.96,
+     "mp": 0.0,
      "mi": "",
-     "opp": "Will Reichard MIN",
-     "op": 9.16,
+     "opp": "Evan McPherson CIN",
+     "op": 9.04,
      "oi": ""
     }
    ],
    "bench": [
     {
-     "n": "C.J. Stroud",
+     "n": "Kirk Cousins",
      "p": "QB",
-     "t": "HOU",
+     "t": "LV",
      "i": "",
-     "pr": 16.81
+     "pr": 14.63
     },
     {
      "n": "Jameson Williams",
      "p": "WR",
      "t": "DET",
      "i": "",
-     "pr": 13.34
+     "pr": 12.49
     },
     {
-     "n": "Joe Milton",
-     "p": "QB",
-     "t": "PHI",
-     "i": "",
-     "pr": 12.26
-    },
-    {
-     "n": "Rome Odunze",
-     "p": "WR",
-     "t": "CHI",
-     "i": "",
-     "pr": 11.56
+     "n": "Cam Skattebo",
+     "p": "RB",
+     "t": "NYG",
+     "i": "Out",
+     "pr": 12.02
     },
     {
      "n": "Harold Fannin Jr.",
      "p": "TE",
      "t": "CLE",
      "i": "",
-     "pr": 11.39
-    },
-    {
-     "n": "Dallas Goedert",
-     "p": "TE",
-     "t": "PHI",
-     "i": "",
-     "pr": 9.74
+     "pr": 11.08
     },
     {
      "n": "Devaughn Vele",
      "p": "WR",
      "t": "NO",
      "i": "",
-     "pr": 8.59
-    },
-    {
-     "n": "Makai Lemon",
-     "p": "WR",
-     "t": "PHI",
-     "i": "",
-     "pr": 7.91
+     "pr": 8.13
     },
     {
      "n": "Rashod Bateman",
      "p": "WR",
      "t": "BAL",
      "i": "",
-     "pr": 4.72
-    },
-    {
-     "n": "Roschon Johnson",
-     "p": "RB",
-     "t": "CHI",
-     "i": "",
-     "pr": 4.09
-    },
-    {
-     "n": "Jaydon Blue",
-     "p": "RB",
-     "t": "PHI",
-     "i": "",
-     "pr": 1.96
+     "pr": 5.36
     },
     {
      "n": "Max Klare",
      "p": "TE",
      "t": "LAR",
      "i": "",
-     "pr": 0.1
+     "pr": 1.13
+    },
+    {
+     "n": "Roschon Johnson",
+     "p": "RB",
+     "t": "CHI",
+     "i": "",
+     "pr": 0.0
+    },
+    {
+     "n": "Joe Milton",
+     "p": "QB",
+     "t": "PHI",
+     "i": "",
+     "pr": 0.0
     },
     {
      "n": "Trey Benson",
@@ -924,85 +903,104 @@
      "pr": 0.0
     },
     {
+     "n": "Rome Odunze",
+     "p": "WR",
+     "t": "CHI",
+     "i": "",
+     "pr": 0.0
+    },
+    {
      "n": "Roman Wilson",
      "p": "WR",
      "t": "PIT",
      "i": "IR",
      "pr": 0.0
+    },
+    {
+     "n": "Ricky Pearsall",
+     "p": "WR",
+     "t": "SF",
+     "i": "IR",
+     "pr": 0.0
+    },
+    {
+     "n": "Jaydon Blue",
+     "p": "RB",
+     "t": "PHI",
+     "i": "",
+     "pr": 0.0
     }
    ],
-   "free": [
-    "C.J. Stroud (16.8) over Matthew Golden GB (14.9) at FLEX"
-   ],
+   "free": [],
    "standings": [
     {
      "team": "Cesar\u2019s Conquest",
-     "w": 7,
+     "w": 8,
      "l": 1,
-     "pf": 1382.22,
-     "me": false
-    },
-    {
-     "team": "The Reign of Ringo",
-     "w": 5,
-     "l": 3,
-     "pf": 1143.14,
+     "pf": 1525.88,
      "me": false
     },
     {
      "team": "lukekenney",
-     "w": 5,
+     "w": 6,
      "l": 3,
-     "pf": 1118.9,
+     "pf": 1289.74,
      "me": true
+    },
+    {
+     "team": "The Reign of Ringo",
+     "w": 5,
+     "l": 4,
+     "pf": 1254.34,
+     "me": false
     },
     {
      "team": "JD Maxxed Team",
      "w": 6,
-     "l": 2,
-     "pf": 980.82,
+     "l": 3,
+     "pf": 1091.24,
+     "me": false
+    },
+    {
+     "team": "Lou\u2019s Legion",
+     "w": 5,
+     "l": 4,
+     "pf": 1077.3,
+     "me": false
+    },
+    {
+     "team": "Baby Kyler",
+     "w": 4,
+     "l": 5,
+     "pf": 1036.46,
      "me": false
     },
     {
      "team": "Giggs3",
      "w": 4,
-     "l": 4,
-     "pf": 954.6,
-     "me": false
-    },
-    {
-     "team": "Lou\u2019s Legion",
-     "w": 4,
-     "l": 4,
-     "pf": 939.16,
-     "me": false
-    },
-    {
-     "team": "Baby Kyler",
-     "w": 3,
      "l": 5,
-     "pf": 917.48,
+     "pf": 1035.76,
      "me": false
     },
     {
      "team": "KOBA",
      "w": 2,
-     "l": 6,
-     "pf": 897.52,
+     "l": 7,
+     "pf": 1025.18,
      "me": false
     },
     {
      "team": "Cookie Rats",
      "w": 2,
-     "l": 6,
-     "pf": 845.52,
+     "l": 7,
+     "pf": 949.3,
      "me": false
     },
     {
      "team": "Autopick Entourage",
-     "w": 2,
+     "w": 3,
      "l": 6,
-     "pf": 810.7,
+     "pf": 914.74,
      "me": false
     }
    ],
