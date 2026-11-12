@@ -1,5 +1,5 @@
 {
- "built": "2026-11-12T18:12:04.469793+00:00",
+ "built": "2026-11-12T18:49:09.372074+00:00",
  "week": 10,
  "leagues": [
   {
@@ -518,8 +518,8 @@
    "week": 10,
    "me": "lukekenney",
    "opp": "Drakemayelover",
-   "my_total": 119.84,
-   "opp_total": 129.45,
+   "my_total": 119.85,
+   "opp_total": 129.41,
    "h2h": [
     {
      "slot": "QB",
@@ -599,13 +599,13 @@
      "mp": 9.66,
      "mi": "",
      "opp": "Ka'imi Fairbairn HOU",
-     "op": 9.47,
+     "op": 9.43,
      "oi": ""
     },
     {
      "slot": "DEF",
      "me": "Kansas City Chiefs KC",
-     "mp": 6.67,
+     "mp": 6.68,
      "mi": "",
      "opp": "Green Bay Packers GB",
      "op": 7.93,
@@ -746,13 +746,13 @@
    "week": 10,
    "me": "lukekenney",
    "opp": "Giggs3",
-   "my_total": 142.17,
+   "my_total": 142.34,
    "opp_total": 129.41,
    "h2h": [
     {
      "slot": "QB",
      "me": "C.J. Stroud HOU",
-     "mp": 17.78,
+     "mp": 17.64,
      "mi": "",
      "opp": "Trevor Lawrence JAX",
      "op": 21.53,
@@ -761,7 +761,7 @@
     {
      "slot": "RB",
      "me": "Kenneth Walker III KC",
-     "mp": 22.14,
+     "mp": 22.25,
      "mi": "",
      "opp": "Derrick Henry BAL",
      "op": 15.26,
@@ -788,7 +788,7 @@
     {
      "slot": "WR",
      "me": "Chris Olave NO",
-     "mp": 16.33,
+     "mp": 16.52,
      "mi": "",
      "opp": "Stefon Diggs WAS",
      "op": 11.02,
@@ -824,7 +824,7 @@
     {
      "slot": "K",
      "me": "Andre Szmyt CLE",
-     "mp": 7.62,
+     "mp": 7.63,
      "mi": "",
      "opp": "Evan McPherson CIN",
      "op": 8.88,
@@ -858,14 +858,14 @@
      "p": "TE",
      "t": "CLE",
      "i": "Questionable",
-     "pr": 11.4
+     "pr": 11.41
     },
     {
      "n": "Devaughn Vele",
      "p": "WR",
      "t": "NO",
      "i": "",
-     "pr": 8.18
+     "pr": 8.24
     },
     {
      "n": "Rashod Bateman",
