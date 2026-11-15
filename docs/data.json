@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T17:40:53.757560+00:00",
+ "built": "2026-11-15T20:17:14.727129+00:00",
  "week": 10,
  "leagues": [
   {
@@ -518,8 +518,8 @@
    "week": 10,
    "me": "lukekenney",
    "opp": "Drakemayelover",
-   "my_total": 120.0,
-   "opp_total": 138.36,
+   "my_total": 120.04,
+   "opp_total": 138.35,
    "h2h": [
     {
      "slot": "QB",
@@ -536,7 +536,7 @@
      "mp": 12.25,
      "mi": "",
      "opp": "Kyren Williams LAR",
-     "op": 16.88,
+     "op": 16.99,
      "oi": ""
     },
     {
@@ -578,10 +578,10 @@
     {
      "slot": "FLEX",
      "me": "Tyler Higbee LAR",
-     "mp": 8.49,
+     "mp": 8.51,
      "mi": "",
      "opp": "Khalil Shakir BUF",
-     "op": 10.12,
+     "op": 10.0,
      "oi": ""
     },
     {
@@ -605,7 +605,7 @@
     {
      "slot": "DEF",
      "me": "Kansas City Chiefs KC",
-     "mp": 6.68,
+     "mp": 6.7,
      "mi": "",
      "opp": "Green Bay Packers GB",
      "op": 7.93,
@@ -749,7 +749,7 @@
    "me": "lukekenney",
    "opp": "Giggs3",
    "my_total": 125.18,
-   "opp_total": 130.63,
+   "opp_total": 130.69,
    "h2h": [
     {
      "slot": "QB",
@@ -820,7 +820,7 @@
      "mp": 16.41,
      "mi": "",
      "opp": "Emmett Johnson KC",
-     "op": 16.68,
+     "op": 16.74,
      "oi": ""
     },
     {
@@ -867,7 +867,7 @@
      "p": "WR",
      "t": "NO",
      "i": "",
-     "pr": 7.72
+     "pr": 7.37
     },
     {
      "n": "Max Klare",
