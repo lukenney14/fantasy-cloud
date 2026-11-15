@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T20:17:14.727129+00:00",
+ "built": "2026-11-15T20:58:17.712866+00:00",
  "week": 10,
  "leagues": [
   {
@@ -518,13 +518,13 @@
    "week": 10,
    "me": "lukekenney",
    "opp": "Drakemayelover",
-   "my_total": 120.04,
-   "opp_total": 138.35,
+   "my_total": 120.29,
+   "opp_total": 138.59,
    "h2h": [
     {
      "slot": "QB",
      "me": "Dak Prescott DAL",
-     "mp": 19.08,
+     "mp": 19.33,
      "mi": "",
      "opp": "Drake Maye NE",
      "op": 24.07,
@@ -545,7 +545,7 @@
      "mp": 9.22,
      "mi": "",
      "opp": "Javonte Williams DAL",
-     "op": 17.19,
+     "op": 17.43,
      "oi": ""
     },
     {
@@ -748,7 +748,7 @@
    "week": 10,
    "me": "lukekenney",
    "opp": "Giggs3",
-   "my_total": 125.18,
+   "my_total": 125.26,
    "opp_total": 130.69,
    "h2h": [
     {
@@ -799,7 +799,7 @@
     {
      "slot": "TE",
      "me": "George Kittle SF",
-     "mp": 15.29,
+     "mp": 15.37,
      "mi": "",
      "opp": "Tucker Kraft GB",
      "op": 10.77,
