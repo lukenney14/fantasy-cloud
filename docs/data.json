@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T16:55:46.982955+00:00",
+ "built": "2026-11-15T17:40:53.757560+00:00",
  "week": 10,
  "leagues": [
   {
@@ -117,7 +117,7 @@
      "p": "RB",
      "t": "MIN",
      "slot": "BN",
-     "pr": 8.55,
+     "pr": 8.57,
      "i": "Active"
     },
     {
@@ -255,7 +255,7 @@
    "me": "Yurang Diesel",
    "opp": "Booty Town Ass Muncher",
    "my_total": 129.73,
-   "opp_total": 113.26,
+   "opp_total": 114.13,
    "h2h": [
     {
      "slot": "QB",
@@ -290,7 +290,7 @@
      "mp": 22.91,
      "mi": "Active",
      "opp": "Justin Jefferson",
-     "op": 17.92,
+     "op": 18.79,
      "oi": "Active"
     },
     {
@@ -518,13 +518,13 @@
    "week": 10,
    "me": "lukekenney",
    "opp": "Drakemayelover",
-   "my_total": 119.37,
-   "opp_total": 138.26,
+   "my_total": 120.0,
+   "opp_total": 138.36,
    "h2h": [
     {
      "slot": "QB",
      "me": "Dak Prescott DAL",
-     "mp": 18.85,
+     "mp": 19.08,
      "mi": "",
      "opp": "Drake Maye NE",
      "op": 24.07,
@@ -545,13 +545,13 @@
      "mp": 9.22,
      "mi": "",
      "opp": "Javonte Williams DAL",
-     "op": 17.05,
+     "op": 17.19,
      "oi": ""
     },
     {
      "slot": "WR",
      "me": "Matthew Golden GB",
-     "mp": 15.27,
+     "mp": 15.36,
      "mi": "",
      "opp": "Ja'Marr Chase CIN",
      "op": 19.86,
@@ -560,7 +560,7 @@
     {
      "slot": "WR",
      "me": "Justin Jefferson MIN",
-     "mp": 18.46,
+     "mp": 18.77,
      "mi": "",
      "opp": "Germie Bernard PIT",
      "op": 11.1,
@@ -581,7 +581,7 @@
      "mp": 8.49,
      "mi": "",
      "opp": "Khalil Shakir BUF",
-     "op": 10.13,
+     "op": 10.12,
      "oi": ""
     },
     {
@@ -599,7 +599,7 @@
      "mp": 9.58,
      "mi": "",
      "opp": "Ka'imi Fairbairn HOU",
-     "op": 9.38,
+     "op": 9.34,
      "oi": ""
     },
     {
@@ -608,7 +608,7 @@
      "mp": 6.68,
      "mi": "",
      "opp": "Green Bay Packers GB",
-     "op": 7.92,
+     "op": 7.93,
      "oi": ""
     }
    ],
@@ -748,13 +748,13 @@
    "week": 10,
    "me": "lukekenney",
    "opp": "Giggs3",
-   "my_total": 125.23,
-   "opp_total": 130.31,
+   "my_total": 125.18,
+   "opp_total": 130.63,
    "h2h": [
     {
      "slot": "QB",
      "me": "C.J. Stroud HOU",
-     "mp": 17.96,
+     "mp": 17.83,
      "mi": "",
      "opp": "Trevor Lawrence JAX",
      "op": 20.63,
@@ -772,7 +772,7 @@
     {
      "slot": "RB",
      "me": "Emari Demercado HOU",
-     "mp": 7.13,
+     "mp": 7.06,
      "mi": "",
      "opp": "Bhayshul Tuten JAX",
      "op": 13.96,
@@ -781,7 +781,7 @@
     {
      "slot": "WR",
      "me": "Christian Watson GB",
-     "mp": 15.54,
+     "mp": 15.68,
      "mi": "",
      "opp": "Amon-Ra St. Brown DET",
      "op": 19.52,
@@ -790,7 +790,7 @@
     {
      "slot": "WR",
      "me": "Chris Olave NO",
-     "mp": 16.26,
+     "mp": 16.15,
      "mi": "",
      "opp": "Stefon Diggs WAS",
      "op": 10.24,
@@ -799,20 +799,20 @@
     {
      "slot": "TE",
      "me": "George Kittle SF",
-     "mp": 15.27,
+     "mp": 15.29,
      "mi": "",
      "opp": "Tucker Kraft GB",
-     "op": 10.69,
+     "op": 10.77,
      "oi": ""
     },
     {
      "slot": "FLEX",
      "me": "Matthew Golden GB",
-     "mp": 15.3,
+     "mp": 15.39,
      "mi": "",
      "opp": "A.J. Brown NE",
      "op": 14.38,
-     "oi": ""
+     "oi": "Out"
     },
     {
      "slot": "FLEX",
@@ -820,13 +820,13 @@
      "mp": 16.41,
      "mi": "",
      "opp": "Emmett Johnson KC",
-     "op": 16.44,
+     "op": 16.68,
      "oi": ""
     },
     {
      "slot": "K",
      "me": "Andre Szmyt CLE",
-     "mp": 7.64,
+     "mp": 7.65,
      "mi": "",
      "opp": "Evan McPherson CIN",
      "op": 8.88,
@@ -839,7 +839,7 @@
      "p": "QB",
      "t": "MIN",
      "i": "",
-     "pr": 14.94
+     "pr": 15.03
     },
     {
      "n": "Jameson Williams",
@@ -867,7 +867,7 @@
      "p": "WR",
      "t": "NO",
      "i": "",
-     "pr": 7.83
+     "pr": 7.72
     },
     {
      "n": "Max Klare",
