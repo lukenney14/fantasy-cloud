@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T19:08:01.906821+00:00",
+ "built": "2026-11-17T19:46:14.633128+00:00",
  "week": 11,
  "leagues": [
   {
@@ -518,8 +518,8 @@
    "week": 11,
    "me": "lukekenney",
    "opp": "Lisan Al Gibbs",
-   "my_total": 116.43,
-   "opp_total": 113.97,
+   "my_total": 116.32,
+   "opp_total": 113.94,
    "h2h": [
     {
      "slot": "QB",
@@ -542,7 +542,7 @@
     {
      "slot": "RB",
      "me": "Aaron Jones Sr. MIN",
-     "mp": 8.79,
+     "mp": 8.78,
      "mi": "",
      "opp": "Zach Charbonnet SEA",
      "op": 0.0,
@@ -560,7 +560,7 @@
     {
      "slot": "WR",
      "me": "Justin Jefferson MIN",
-     "mp": 18.81,
+     "mp": 18.71,
      "mi": "",
      "opp": "Malik Nabers NYG",
      "op": 16.3,
@@ -599,7 +599,7 @@
      "mp": 9.27,
      "mi": "",
      "opp": "Eddy Pineiro SF",
-     "op": 8.5,
+     "op": 8.47,
      "oi": ""
     },
     {
@@ -748,7 +748,7 @@
    "week": 11,
    "me": "lukekenney",
    "opp": "Lou\u2019s Legion",
-   "my_total": 127.08,
+   "my_total": 127.05,
    "opp_total": 81.74,
    "h2h": [
     {
@@ -799,7 +799,7 @@
     {
      "slot": "TE",
      "me": "George Kittle SF",
-     "mp": 12.58,
+     "mp": 12.55,
      "mi": "",
      "opp": "Mark Andrews BAL",
      "op": 6.24,
@@ -839,7 +839,7 @@
      "p": "QB",
      "t": "MIN",
      "i": "",
-     "pr": 17.74
+     "pr": 17.6
     },
     {
      "n": "Joe Milton",
@@ -934,7 +934,7 @@
     }
    ],
    "free": [
-    "Kirk Cousins (17.7) over Jameson Williams DET (12.1) at FLEX"
+    "Kirk Cousins (17.6) over Jameson Williams DET (12.1) at FLEX"
    ],
    "standings": [
     {
