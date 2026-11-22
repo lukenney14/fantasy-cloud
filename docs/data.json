@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T17:43:34.496848+00:00",
+ "built": "2026-11-22T18:28:03.284455+00:00",
  "week": 11,
  "leagues": [
   {
@@ -518,8 +518,8 @@
    "week": 11,
    "me": "lukekenney",
    "opp": "Lisan Al Gibbs",
-   "my_total": 123.18,
-   "opp_total": 131.41,
+   "my_total": 123.34,
+   "opp_total": 131.42,
    "h2h": [
     {
      "slot": "QB",
@@ -527,13 +527,13 @@
      "mp": 21.61,
      "mi": "",
      "opp": "Jayden Daniels WAS",
-     "op": 22.79,
+     "op": 22.73,
      "oi": ""
     },
     {
      "slot": "RB",
      "me": "Cam Skattebo NYG",
-     "mp": 16.27,
+     "mp": 16.39,
      "mi": "",
      "opp": "Jahmyr Gibbs DET",
      "op": 23.29,
@@ -545,7 +545,7 @@
      "mp": 8.66,
      "mi": "",
      "opp": "Jacory Croskey-Merritt WAS",
-     "op": 7.63,
+     "op": 7.62,
      "oi": "IR"
     },
     {
@@ -563,7 +563,7 @@
      "mp": 18.18,
      "mi": "",
      "opp": "Malik Nabers NYG",
-     "op": 15.89,
+     "op": 15.97,
      "oi": ""
     },
     {
@@ -596,7 +596,7 @@
     {
      "slot": "K",
      "me": "Cam Little JAX",
-     "mp": 9.19,
+     "mp": 9.23,
      "mi": "",
      "opp": "Eddy Pineiro SF",
      "op": 8.47,
@@ -746,8 +746,8 @@
    "week": 11,
    "me": "lukekenney",
    "opp": "Lou\u2019s Legion",
-   "my_total": 127.53,
-   "opp_total": 105.97,
+   "my_total": 127.74,
+   "opp_total": 106.05,
    "h2h": [
     {
      "slot": "QB",
@@ -761,7 +761,7 @@
     {
      "slot": "RB",
      "me": "Chase Brown CIN",
-     "mp": 15.06,
+     "mp": 15.07,
      "mi": "",
      "opp": "Kyle Monangai CHI",
      "op": 8.4,
@@ -770,7 +770,7 @@
     {
      "slot": "RB",
      "me": "Cam Skattebo NYG",
-     "mp": 16.38,
+     "mp": 16.5,
      "mi": "",
      "opp": "Kenny Gainwell TB",
      "op": 7.92,
@@ -779,7 +779,7 @@
     {
      "slot": "WR",
      "me": "Malik Nabers NYG",
-     "mp": 15.93,
+     "mp": 16.01,
      "mi": "",
      "opp": "Nico Collins HOU",
      "op": 16.16,
@@ -791,7 +791,7 @@
      "mp": 15.09,
      "mi": "",
      "opp": "Parker Washington JAX",
-     "op": 14.16,
+     "op": 14.24,
      "oi": ""
     },
     {
