@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T18:28:03.284455+00:00",
+ "built": "2026-11-22T20:58:58.847585+00:00",
  "week": 11,
  "leagues": [
   {
@@ -10,7 +10,7 @@
    "week": 11,
    "me": "Team Bonah",
    "opp": "O-H",
-   "my_total": 101.55,
+   "my_total": 110.06,
    "opp_total": 122.45,
    "h2h": [
     {
@@ -60,17 +60,17 @@
     },
     {
      "slot": "TE",
-     "me": "Brock Bowers",
-     "mp": 0.0,
-     "mi": "Questionable",
+     "me": "T.J. Hockenson",
+     "mp": 11.69,
+     "mi": "Active",
      "opp": "Dallas Goedert",
      "op": 8.22,
      "oi": "Active"
     },
     {
      "slot": "FLEX",
-     "me": "T.J. Hockenson",
-     "mp": 11.69,
+     "me": "Deebo Samuel Sr.",
+     "mp": 10.33,
      "mi": "Active",
      "opp": "Emeka Egbuka",
      "op": 10.91,
@@ -78,8 +78,8 @@
     },
     {
      "slot": "FLEX",
-     "me": "Deebo Samuel Sr.",
-     "mp": 10.33,
+     "me": "Treylon Burks",
+     "mp": 8.5,
      "mi": "Active",
      "opp": "Caleb Douglas",
      "op": 9.68,
@@ -88,7 +88,7 @@
     {
      "slot": "D/ST",
      "me": "Jets D/ST",
-     "mp": 6.21,
+     "mp": 6.22,
      "mi": "",
      "opp": "Bills D/ST",
      "op": 7.11,
@@ -119,14 +119,6 @@
      "slot": "BN",
      "pr": 7.65,
      "i": "Active"
-    },
-    {
-     "n": "Puka Nacua",
-     "p": "WR",
-     "t": "LAR",
-     "slot": "BN",
-     "pr": 0.0,
-     "i": "Injury Reserve"
     },
     {
      "n": "Kyren Williams",
@@ -161,6 +153,14 @@
      "i": "Active"
     },
     {
+     "n": "Brock Bowers",
+     "p": "TE",
+     "t": "LV",
+     "slot": "BN",
+     "pr": 0.0,
+     "i": "Out"
+    },
+    {
      "n": "Audric Estime",
      "p": "RB",
      "t": "NO",
@@ -170,7 +170,7 @@
     }
    ],
    "free": [
-    "Brock Purdy (17.6) over T.J. Hockenson (11.7) at FLEX"
+    "Brock Purdy (17.6) over Deebo Samuel Sr. (10.3) at FLEX"
    ],
    "standings": [
     {
@@ -518,8 +518,8 @@
    "week": 11,
    "me": "lukekenney",
    "opp": "Lisan Al Gibbs",
-   "my_total": 123.34,
-   "opp_total": 131.42,
+   "my_total": 123.04,
+   "opp_total": 131.45,
    "h2h": [
     {
      "slot": "QB",
@@ -533,7 +533,7 @@
     {
      "slot": "RB",
      "me": "Cam Skattebo NYG",
-     "mp": 16.39,
+     "mp": 16.29,
      "mi": "",
      "opp": "Jahmyr Gibbs DET",
      "op": 23.29,
@@ -542,7 +542,7 @@
     {
      "slot": "RB",
      "me": "Aaron Jones Sr. MIN",
-     "mp": 8.66,
+     "mp": 8.59,
      "mi": "",
      "opp": "Jacory Croskey-Merritt WAS",
      "op": 7.62,
@@ -560,10 +560,10 @@
     {
      "slot": "WR",
      "me": "Justin Jefferson MIN",
-     "mp": 18.18,
+     "mp": 18.09,
      "mi": "",
      "opp": "Malik Nabers NYG",
-     "op": 15.97,
+     "op": 15.91,
      "oi": ""
     },
     {
@@ -581,8 +581,8 @@
      "mp": 7.88,
      "mi": "",
      "opp": "Ladd McConkey LAC",
-     "op": 12.11,
-     "oi": "Questionable"
+     "op": 12.17,
+     "oi": ""
     },
     {
      "slot": "FLEX",
@@ -596,10 +596,10 @@
     {
      "slot": "K",
      "me": "Cam Little JAX",
-     "mp": 9.23,
+     "mp": 9.19,
      "mi": "",
      "opp": "Eddy Pineiro SF",
-     "op": 8.47,
+     "op": 8.5,
      "oi": ""
     },
     {
@@ -746,8 +746,8 @@
    "week": 11,
    "me": "lukekenney",
    "opp": "Lou\u2019s Legion",
-   "my_total": 127.74,
-   "opp_total": 106.05,
+   "my_total": 127.62,
+   "opp_total": 105.96,
    "h2h": [
     {
      "slot": "QB",
@@ -770,7 +770,7 @@
     {
      "slot": "RB",
      "me": "Cam Skattebo NYG",
-     "mp": 16.5,
+     "mp": 16.4,
      "mi": "",
      "opp": "Kenny Gainwell TB",
      "op": 7.92,
@@ -779,7 +779,7 @@
     {
      "slot": "WR",
      "me": "Malik Nabers NYG",
-     "mp": 16.01,
+     "mp": 15.95,
      "mi": "",
      "opp": "Nico Collins HOU",
      "op": 16.16,
@@ -791,13 +791,13 @@
      "mp": 15.09,
      "mi": "",
      "opp": "Parker Washington JAX",
-     "op": 14.24,
+     "op": 14.16,
      "oi": ""
     },
     {
      "slot": "TE",
      "me": "George Kittle SF",
-     "mp": 12.4,
+     "mp": 12.44,
      "mi": "",
      "opp": "Mark Andrews BAL",
      "op": 7.51,
@@ -809,7 +809,7 @@
      "mp": 11.22,
      "mi": "",
      "opp": "Deebo Samuel Sr. SF",
-     "op": 9.03,
+     "op": 9.02,
      "oi": ""
     },
     {
@@ -837,7 +837,7 @@
      "p": "QB",
      "t": "MIN",
      "i": "",
-     "pr": 16.72
+     "pr": 16.61
     },
     {
      "n": "Joe Milton",
@@ -885,7 +885,7 @@
      "n": "Roschon Johnson",
      "p": "RB",
      "t": "CHI",
-     "i": "",
+     "i": "Out",
      "pr": 0.49
     },
     {
@@ -932,7 +932,7 @@
     }
    ],
    "free": [
-    "Kirk Cousins (16.7) over Rome Odunze CHI (11.2) at FLEX"
+    "Kirk Cousins (16.6) over Rome Odunze CHI (11.2) at FLEX"
    ],
    "standings": [
     {
